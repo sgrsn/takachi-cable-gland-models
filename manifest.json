@@ -636,6 +636,112 @@
           "sha256": "3de1e3d98d86e5553871c075953ca988043c16627886b306a8bb84ffacc2332c"
         }
       ]
+    },
+    "RM25L-17": {
+      "revision": "r1",
+      "series": "RM",
+      "source": {
+        "commit": "7125b97a2db4d6db5d2a001f40460a405faa4997",
+        "verified": "2026-11-24",
+        "drawing_date": "2024-10-15"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 50.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 36.8,
+          "axis": "X"
+        }
+      },
+      "mount_hole_mm": 25.2,
+      "overall_bbox": {
+        "min": [
+          -17.75,
+          -18.4,
+          -12.462
+        ],
+        "max": [
+          17.75,
+          18.4,
+          37.538
+        ]
+      },
+      "variants": [
+        {
+          "model": "RM25L-17B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "RM25L-17B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM25L-17B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM25L-17B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM25L-17B_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM25L-17B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RM/RM25L-17/RM25L-17B.step",
+          "sha256": "81e0b565bcebbd5e020355593821790b9ddd31e123a102076161d0f54561a8ef"
+        },
+        {
+          "model": "RM25L-17S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "RM25L-17S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM25L-17S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM25L-17S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM25L-17S_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM25L-17S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RM/RM25L-17/RM25L-17S.step",
+          "sha256": "529aa7185308377a7e030257019d73b9c12a7cf5328987ebacf1890ecd0657b8"
+        }
+      ]
     }
   }
 }
