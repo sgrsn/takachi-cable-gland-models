@@ -319,6 +319,112 @@
         }
       ]
     },
+    "RM16S-8": {
+      "revision": "r1",
+      "series": "RM",
+      "source": {
+        "commit": "2936e97692e4fa492bdea25d9683195afefc9181",
+        "verified": "2026-11-24",
+        "drawing_date": "2024-10-15"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 32.5,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 24.0,
+          "axis": "X"
+        }
+      },
+      "mount_hole_mm": 16.2,
+      "overall_bbox": {
+        "min": [
+          -12.0,
+          -12.0,
+          -6.985
+        ],
+        "max": [
+          12.0,
+          12.0,
+          25.515
+        ]
+      },
+      "variants": [
+        {
+          "model": "RM16S-8B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "RM16S-8B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM16S-8B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM16S-8B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM16S-8B_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM16S-8B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RM/RM16S-8/RM16S-8B.step",
+          "sha256": "44726e8688ab1fae80fdfe7ffaa4ad1b880b3b5a361789e7ded4e20de7a2df98"
+        },
+        {
+          "model": "RM16S-8S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "RM16S-8S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM16S-8S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM16S-8S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM16S-8S_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM16S-8S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RM/RM16S-8/RM16S-8S.step",
+          "sha256": "7b50d663921abf8ed7664a2e63ab199a72b54d82b012e724da3dc264ae3add2f"
+        }
+      ]
+    },
     "RM20L-12": {
       "revision": "r1",
       "series": "RM",

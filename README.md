@@ -26,6 +26,7 @@ Revisions are in [manifest.json](manifest.json); changes are in [CHANGELOG.md](C
 | [RM12L-7](models/RM/RM12L-7/) | 35 × 19 | 12.2 | Black<br>Light gray | [RM12L-7B](models/RM/RM12L-7/RM12L-7B.step)<br>[RM12L-7S](models/RM/RM12L-7/RM12L-7S.step) |
 | [RM12S-7](models/RM/RM12S-7/) | 29.5 × 19 | 12.2 | Black<br>Light gray | [RM12S-7B](models/RM/RM12S-7/RM12S-7B.step)<br>[RM12S-7S](models/RM/RM12S-7/RM12S-7S.step) |
 | [RM16L-8](models/RM/RM16L-8/) | 39 × 24 | 16.2 | Black<br>Light gray | [RM16L-8B](models/RM/RM16L-8/RM16L-8B.step)<br>[RM16L-8S](models/RM/RM16L-8/RM16L-8S.step) |
+| [RM16S-8](models/RM/RM16S-8/) | 32.5 × 24 | 16.2 | Black<br>Light gray | [RM16S-8B](models/RM/RM16S-8/RM16S-8B.step)<br>[RM16S-8S](models/RM/RM16S-8/RM16S-8S.step) |
 | [RM20L-12](models/RM/RM20L-12/) | 43.5 × 29 | 20.2 | Black<br>Light gray | [RM20L-12B](models/RM/RM20L-12/RM20L-12B.step)<br>[RM20L-12S](models/RM/RM20L-12/RM20L-12S.step) |
 | [RM20S-12](models/RM/RM20S-12/) | 38.5 × 29 | 20.2 | Black<br>Light gray | [RM20S-12B](models/RM/RM20S-12/RM20S-12B.step)<br>[RM20S-12S](models/RM/RM20S-12/RM20S-12S.step) |
 <!-- models:end -->
