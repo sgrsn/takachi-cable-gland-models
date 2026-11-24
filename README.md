@@ -24,6 +24,7 @@ Revisions are in [manifest.json](manifest.json); changes are in [CHANGELOG.md](C
 | Model | L × D (mm) | Mounting hole (mm) | Color | STEP |
 |---|---|---|---|---|
 | [RM12L-7](models/RM/RM12L-7/) | 35 × 19 | 12.2 | Black<br>Light gray | [RM12L-7B](models/RM/RM12L-7/RM12L-7B.step)<br>[RM12L-7S](models/RM/RM12L-7/RM12L-7S.step) |
+| [RM12S-7](models/RM/RM12S-7/) | 29.5 × 19 | 12.2 | Black<br>Light gray | [RM12S-7B](models/RM/RM12S-7/RM12S-7B.step)<br>[RM12S-7S](models/RM/RM12S-7/RM12S-7S.step) |
 <!-- models:end -->
 
 ## Feedback
