@@ -33,6 +33,7 @@ Revisions are in [manifest.json](manifest.json); changes are in [CHANGELOG.md](C
 | [RM25L-17](models/RM/RM25L-17/) | 50 × 36.8 | 25.2 | Black<br>Light gray | [RM25L-17B](models/RM/RM25L-17/RM25L-17B.step)<br>[RM25L-17S](models/RM/RM25L-17/RM25L-17S.step) |
 | [RM32L-21](models/RM/RM32L-21/) | 53 × 45 | 32.3 | Black<br>Light gray | [RM32L-21B](models/RM/RM32L-21/RM32L-21B.step)<br>[RM32L-21S](models/RM/RM32L-21/RM32L-21S.step) |
 | [RM40L-27](models/RM/RM40L-27/) | 61.5 × 56.3 | 40.3 | Black<br>Light gray | [RM40L-27B](models/RM/RM40L-27/RM40L-27B.step)<br>[RM40L-27S](models/RM/RM40L-27/RM40L-27S.step) |
+| [RM8L-4](models/RM/RM8L-4/) | 32.5 × 14.3 | 8.2 | Black<br>Light gray | [RM8L-4B](models/RM/RM8L-4/RM8L-4B.step)<br>[RM8L-4S](models/RM/RM8L-4/RM8L-4S.step) |
 <!-- models:end -->
 
 ## Feedback

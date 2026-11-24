@@ -1060,6 +1060,112 @@
           "sha256": "cd9f46dd0e5ac01a1a0230c822af0d7bf4c25fc20b08dc75254f721a39983044"
         }
       ]
+    },
+    "RM8L-4": {
+      "revision": "r1",
+      "series": "RM",
+      "source": {
+        "commit": "029a1fdd07914727132798b0907f00e6098c91c6-dirty",
+        "verified": "2026-11-24",
+        "drawing_date": "2024-10-15"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 32.5,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 14.3,
+          "axis": "X"
+        }
+      },
+      "mount_hole_mm": 8.2,
+      "overall_bbox": {
+        "min": [
+          -6.3,
+          -7.15,
+          -11.346
+        ],
+        "max": [
+          6.3,
+          7.15,
+          21.154
+        ]
+      },
+      "variants": [
+        {
+          "model": "RM8L-4B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "RM8L-4B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM8L-4B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM8L-4B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM8L-4B_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM8L-4B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RM/RM8L-4/RM8L-4B.step",
+          "sha256": "7cdb8f83fe72b160036f2407d0da27e1087aa8ce5c1c345b6b978a115b9e7b08"
+        },
+        {
+          "model": "RM8L-4S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "RM8L-4S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM8L-4S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM8L-4S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM8L-4S_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM8L-4S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RM/RM8L-4/RM8L-4S.step",
+          "sha256": "51f870d87b09ac71f53557980c7ec5910e19ae8153271adc7689e83167cf5228"
+        }
+      ]
     }
   }
 }
