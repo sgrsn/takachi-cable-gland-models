@@ -742,6 +742,112 @@
           "sha256": "529aa7185308377a7e030257019d73b9c12a7cf5328987ebacf1890ecd0657b8"
         }
       ]
+    },
+    "RM32L-21": {
+      "revision": "r1",
+      "series": "RM",
+      "source": {
+        "commit": "e6003aba0acf8e199927b4262763f28bc8c73533-dirty",
+        "verified": "2026-11-24",
+        "drawing_date": "2025-10-21"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 53.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 45.0,
+          "axis": "X"
+        }
+      },
+      "mount_hole_mm": 32.3,
+      "overall_bbox": {
+        "min": [
+          -22.5,
+          -22.5,
+          -12.102
+        ],
+        "max": [
+          22.5,
+          22.5,
+          40.898
+        ]
+      },
+      "variants": [
+        {
+          "model": "RM32L-21B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "RM32L-21B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM32L-21B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM32L-21B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM32L-21B_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM32L-21B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RM/RM32L-21/RM32L-21B.step",
+          "sha256": "527f2438584d880f2bafcd46650c54e8a651ac25a475fa413b5f1563223020a9"
+        },
+        {
+          "model": "RM32L-21S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "RM32L-21S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM32L-21S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM32L-21S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM32L-21S_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM32L-21S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RM/RM32L-21/RM32L-21S.step",
+          "sha256": "53547c9ebec0a5c95f692dfc7d9fdca586425e7ffd9aca4137ff6efda50e834d"
+        }
+      ]
     }
   }
 }
