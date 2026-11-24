@@ -23,6 +23,7 @@
 <!-- models:begin -->
 | 型番 | L × D (mm) | 取付穴径 (mm) | 色 | STEP |
 |---|---|---|---|---|
+| [RM10L-6](models/RM/RM10L-6/) | 33.5 × 16.8 | 10.2 | ブラック<br>ライトグレー | [RM10L-6B](models/RM/RM10L-6/RM10L-6B.step)<br>[RM10L-6S](models/RM/RM10L-6/RM10L-6S.step) |
 | [RM12L-7](models/RM/RM12L-7/) | 35 × 19 | 12.2 | ブラック<br>ライトグレー | [RM12L-7B](models/RM/RM12L-7/RM12L-7B.step)<br>[RM12L-7S](models/RM/RM12L-7/RM12L-7S.step) |
 | [RM12S-7](models/RM/RM12S-7/) | 29.5 × 19 | 12.2 | ブラック<br>ライトグレー | [RM12S-7B](models/RM/RM12S-7/RM12S-7B.step)<br>[RM12S-7S](models/RM/RM12S-7/RM12S-7S.step) |
 | [RM16L-8](models/RM/RM16L-8/) | 39 × 24 | 16.2 | ブラック<br>ライトグレー | [RM16L-8B](models/RM/RM16L-8/RM16L-8B.step)<br>[RM16L-8S](models/RM/RM16L-8/RM16L-8S.step) |

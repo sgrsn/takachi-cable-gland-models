@@ -1,6 +1,112 @@
 {
   "schema": 1,
   "models": {
+    "RM10L-6": {
+      "revision": "r1",
+      "series": "RM",
+      "source": {
+        "commit": "8d1ffae3bd3584c18fcb2974b89e5eabecbd7ed5",
+        "verified": "2026-11-24",
+        "drawing_date": "2024-10-15"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 33.5,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 16.8,
+          "axis": "X"
+        }
+      },
+      "mount_hole_mm": 10.2,
+      "overall_bbox": {
+        "min": [
+          -7.4,
+          -8.4,
+          -10.902
+        ],
+        "max": [
+          7.4,
+          8.4,
+          22.598
+        ]
+      },
+      "variants": [
+        {
+          "model": "RM10L-6B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "RM10L-6B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM10L-6B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM10L-6B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM10L-6B_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM10L-6B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RM/RM10L-6/RM10L-6B.step",
+          "sha256": "cb44e31b630c21da5a59ab8a544c262937d754e1093eaa129780f269dd8d5471"
+        },
+        {
+          "model": "RM10L-6S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "RM10L-6S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM10L-6S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM10L-6S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM10L-6S_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM10L-6S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RM/RM10L-6/RM10L-6S.step",
+          "sha256": "280fc3754c9521a47fdba9d17d85e57877e8703c82084a38aede8969cdbdb19c"
+        }
+      ]
+    },
     "RM12L-7": {
       "revision": "r1",
       "series": "RM",
