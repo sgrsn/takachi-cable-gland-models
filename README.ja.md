@@ -25,6 +25,7 @@
 |---|---|---|---|---|
 | [RM12L-7](models/RM/RM12L-7/) | 35 × 19 | 12.2 | ブラック<br>ライトグレー | [RM12L-7B](models/RM/RM12L-7/RM12L-7B.step)<br>[RM12L-7S](models/RM/RM12L-7/RM12L-7S.step) |
 | [RM12S-7](models/RM/RM12S-7/) | 29.5 × 19 | 12.2 | ブラック<br>ライトグレー | [RM12S-7B](models/RM/RM12S-7/RM12S-7B.step)<br>[RM12S-7S](models/RM/RM12S-7/RM12S-7S.step) |
+| [RM20L-12](models/RM/RM20L-12/) | 43.5 × 29 | 20.2 | ブラック<br>ライトグレー | [RM20L-12B](models/RM/RM20L-12/RM20L-12B.step)<br>[RM20L-12S](models/RM/RM20L-12/RM20L-12S.step) |
 <!-- models:end -->
 
 ## ご意見

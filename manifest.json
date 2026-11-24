@@ -212,6 +212,112 @@
           "sha256": "9538aa7850089f669a000e324283428a6fbc5eeb040f3ed041d36f69748f7f82"
         }
       ]
+    },
+    "RM20L-12": {
+      "revision": "r1",
+      "series": "RM",
+      "source": {
+        "commit": "b94ae9a335b82a3abbec1a0d7172ff37789a85c5",
+        "verified": "2026-11-24",
+        "drawing_date": "2024-10-15"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 43.5,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 29.0,
+          "axis": "X"
+        }
+      },
+      "mount_hole_mm": 20.2,
+      "overall_bbox": {
+        "min": [
+          -14.5,
+          -14.5,
+          -12.825
+        ],
+        "max": [
+          14.5,
+          14.5,
+          30.675
+        ]
+      },
+      "variants": [
+        {
+          "model": "RM20L-12B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "RM20L-12B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM20L-12B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM20L-12B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM20L-12B_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM20L-12B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RM/RM20L-12/RM20L-12B.step",
+          "sha256": "74abd38a3b12f3a95b22b4eeb4cd43c5a5951e5e9b7b7b92dd67515463edacde"
+        },
+        {
+          "model": "RM20L-12S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "RM20L-12S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM20L-12S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM20L-12S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM20L-12S_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM20L-12S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RM/RM20L-12/RM20L-12S.step",
+          "sha256": "be9c6defe40208bc2d2efce681e193baf72992f3391a5a7e49f95b37b095c91b"
+        }
+      ]
     }
   }
 }
