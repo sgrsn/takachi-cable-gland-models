@@ -1061,6 +1061,112 @@
         }
       ]
     },
+    "RM8L-2.5": {
+      "revision": "r1",
+      "series": "RM",
+      "source": {
+        "commit": "26179214d8a8f355396728205e69ed5339334b13",
+        "verified": "2026-11-24",
+        "drawing_date": "2024-10-15"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 32.5,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 14.3,
+          "axis": "X"
+        }
+      },
+      "mount_hole_mm": 8.2,
+      "overall_bbox": {
+        "min": [
+          -6.3,
+          -7.15,
+          -11.346
+        ],
+        "max": [
+          6.3,
+          7.15,
+          21.154
+        ]
+      },
+      "variants": [
+        {
+          "model": "RM8L-2.5B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "RM8L-2.5B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM8L-2.5B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM8L-2.5B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM8L-2.5B_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM8L-2.5B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RM/RM8L-2.5/RM8L-2.5B.step",
+          "sha256": "aa57164bab50e3306d027aecaab6831a3217c5ce13fbcd8bc1c334aac4f94331"
+        },
+        {
+          "model": "RM8L-2.5S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "RM8L-2.5S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM8L-2.5S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM8L-2.5S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM8L-2.5S_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM8L-2.5S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RM/RM8L-2.5/RM8L-2.5S.step",
+          "sha256": "c7325a835126edb1c73e1890bbb1686cbe4c7608e9fda9a2eec2dab3e14ba60c"
+        }
+      ]
+    },
     "RM8L-4": {
       "revision": "r1",
       "series": "RM",
