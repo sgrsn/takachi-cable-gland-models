@@ -848,6 +848,112 @@
           "sha256": "53547c9ebec0a5c95f692dfc7d9fdca586425e7ffd9aca4137ff6efda50e834d"
         }
       ]
+    },
+    "RM40L-27": {
+      "revision": "r1",
+      "series": "RM",
+      "source": {
+        "commit": "f22f29a3ac70e0ea173df387a8c8785c38cd3747",
+        "verified": "2026-11-24",
+        "drawing_date": "2024-10-15"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 61.5,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 56.3,
+          "axis": "X"
+        }
+      },
+      "mount_hole_mm": 40.3,
+      "overall_bbox": {
+        "min": [
+          -28.15,
+          -28.15,
+          -15.056
+        ],
+        "max": [
+          28.15,
+          28.15,
+          46.444
+        ]
+      },
+      "variants": [
+        {
+          "model": "RM40L-27B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "RM40L-27B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM40L-27B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM40L-27B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM40L-27B_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM40L-27B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RM/RM40L-27/RM40L-27B.step",
+          "sha256": "c58ca4673f4335fdbb014d84ed9ad5cb7f4390189e3f490dc3b79f517d2a43fb"
+        },
+        {
+          "model": "RM40L-27S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "RM40L-27S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM40L-27S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM40L-27S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM40L-27S_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM40L-27S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RM/RM40L-27/RM40L-27S.step",
+          "sha256": "cd9f46dd0e5ac01a1a0230c822af0d7bf4c25fc20b08dc75254f721a39983044"
+        }
+      ]
     }
   }
 }
