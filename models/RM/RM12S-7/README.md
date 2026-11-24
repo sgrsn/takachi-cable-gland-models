@@ -18,7 +18,7 @@
 | mm | L (Z) | D (X) |
 |---|---|---|
 | Drawing | 29.5 | 19 |
-| Overall (all parts) | 29.504 | 19 |
+| Overall (all parts) | 29.5 | 19 |
 
 Mounting hole: ⌀12.2 mm
 

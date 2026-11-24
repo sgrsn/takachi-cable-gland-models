@@ -108,10 +108,10 @@
       ]
     },
     "RM12S-7": {
-      "revision": "r1",
+      "revision": "r2",
       "series": "RM",
       "source": {
-        "commit": "24cd376d0e2de4969c66dd9a8491438275a5c847",
+        "commit": "c623bb0687563d10349b9c4089e0f5795b8f3e47",
         "verified": "2026-11-24",
         "drawing_date": "2024-10-15"
       },
@@ -130,7 +130,7 @@
         "min": [
           -9.5,
           -9.5,
-          -7.0
+          -6.996
         ],
         "max": [
           9.5,
@@ -173,7 +173,7 @@
             }
           ],
           "step": "models/RM/RM12S-7/RM12S-7B.step",
-          "sha256": "559ee5a032c9d91af76c4480c08a37a656513e264906e41df8eb64eb85d30e4c"
+          "sha256": "23397611498c206529013c6320fad5143b3bf816189e7b9d8273da1672622c7e"
         },
         {
           "model": "RM12S-7S",
@@ -209,7 +209,7 @@
             }
           ],
           "step": "models/RM/RM12S-7/RM12S-7S.step",
-          "sha256": "00e0a41d7d7b548e432a95c32aa9c4d6caba667889aeda3ca10f9f9c96261761"
+          "sha256": "9538aa7850089f669a000e324283428a6fbc5eeb040f3ed041d36f69748f7f82"
         }
       ]
     }
