@@ -1,0 +1,111 @@
+{
+  "schema": 1,
+  "models": {
+    "RM12L-7": {
+      "revision": "r1",
+      "series": "RM",
+      "source": {
+        "commit": "65f3366d3b263b87e859dbb3a5e726e2dce47056",
+        "verified": "2026-11-24",
+        "drawing_date": "2024-10-15"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 35.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 19.0,
+          "axis": "X"
+        }
+      },
+      "mount_hole_mm": 12.2,
+      "overall_bbox": {
+        "min": [
+          -9.5,
+          -9.5,
+          -12.496
+        ],
+        "max": [
+          9.5,
+          9.5,
+          22.504
+        ]
+      },
+      "variants": [
+        {
+          "model": "RM12L-7B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "RM12L-7B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM12L-7B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM12L-7B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM12L-7B_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM12L-7B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RM/RM12L-7/RM12L-7B.step",
+          "sha256": "348207dc559ee0df50e4be105cc9b8173dd392e0a2d3c85df8bbecd33b3070e9"
+        },
+        {
+          "model": "RM12L-7S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "RM12L-7S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM12L-7S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM12L-7S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM12L-7S_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM12L-7S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RM/RM12L-7/RM12L-7S.step",
+          "sha256": "2005513ed50b03bfc4e440c825fd69126c0868c0845a16c205c44344c34291cc"
+        }
+      ]
+    }
+  }
+}

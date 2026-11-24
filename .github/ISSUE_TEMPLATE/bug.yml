@@ -1,0 +1,21 @@
+name: Problem with a model
+description: A STEP file does not import, or a dimension, part name or color is wrong.
+labels: ["bug"]
+body:
+  - type: input
+    id: model
+    attributes:
+      label: Model number
+      placeholder: RM12L-7B
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What happened
+    validations:
+      required: true
+  - type: input
+    id: software
+    attributes:
+      label: CAD software

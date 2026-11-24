@@ -1,0 +1,14 @@
+name: Model request
+description: Ask for a model that is not in the list yet.
+labels: ["model request"]
+body:
+  - type: markdown
+    attributes:
+      value: Only TAKACHI cable glands with published 2D drawings and no official 3D data.
+  - type: input
+    id: model
+    attributes:
+      label: Model number
+      placeholder: RM16L-8B
+    validations:
+      required: true

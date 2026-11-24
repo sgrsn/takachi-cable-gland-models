@@ -1,0 +1,30 @@
+name: Measurement report
+description: Report a dimension you measured on a real product.
+labels: ["measurement"]
+body:
+  - type: markdown
+    attributes:
+      value: Please do not attach TAKACHI drawings or catalog pages.
+  - type: input
+    id: model
+    attributes:
+      label: Model number
+      placeholder: RM12L-7B
+    validations:
+      required: true
+  - type: textarea
+    id: feature
+    attributes:
+      label: What you measured
+    validations:
+      required: true
+  - type: input
+    id: measured
+    attributes:
+      label: Measured value (mm)
+    validations:
+      required: true
+  - type: textarea
+    id: method
+    attributes:
+      label: How you measured (tool, photos)
