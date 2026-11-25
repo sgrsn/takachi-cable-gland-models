@@ -1909,6 +1909,112 @@
         }
       ]
     },
+    "RMW32L-21": {
+      "revision": "r1",
+      "series": "RMW",
+      "source": {
+        "commit": "17cf1de34dd6d7dbdb1b9ac67801a6d55b1e331d",
+        "verified": "2026-11-25",
+        "drawing_date": "2025-10-21"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 53.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 45.0,
+          "axis": "X"
+        }
+      },
+      "mount_hole_mm": 32.3,
+      "overall_bbox": {
+        "min": [
+          -22.5,
+          -22.5,
+          -12.102
+        ],
+        "max": [
+          22.5,
+          22.5,
+          40.898
+        ]
+      },
+      "variants": [
+        {
+          "model": "RMW32L-21B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "RMW32L-21B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW32L-21B_SealingInsert",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW32L-21B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW32L-21B_ORing",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW32L-21B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMW/RMW32L-21/RMW32L-21B.step",
+          "sha256": "fa3b43b6da0e6d3b78e58cef33716db6e2ba8bdfcda4351e817e0b7d7b407bfc"
+        },
+        {
+          "model": "RMW32L-21S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "RMW32L-21S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW32L-21S_SealingInsert",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW32L-21S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW32L-21S_ORing",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW32L-21S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMW/RMW32L-21/RMW32L-21S.step",
+          "sha256": "f91d2c4dcd4f2e2a45914b78cfe249e40945c8224c4cbd8d5535999d23eb70f1"
+        }
+      ]
+    },
     "RMW40L-27": {
       "revision": "r1",
       "series": "RMW",
