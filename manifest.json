@@ -107,6 +107,103 @@
         }
       ]
     },
+    "RM10S-6": {
+      "revision": "r1",
+      "series": "RM",
+      "source": {
+        "commit": "24bfdf5e81c97e37cf70960deb611d8a62614c24",
+        "verified": "2026-11-25",
+        "drawing_date": "2024-10-15"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 28.5,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 14.6,
+          "axis": "X"
+        }
+      },
+      "mount_hole_mm": 10.0,
+      "mount_hole_thread": "M10×1.5",
+      "overall_bbox": {
+        "min": [
+          -6.5,
+          -7.3,
+          -5.902
+        ],
+        "max": [
+          6.5,
+          7.3,
+          22.598
+        ]
+      },
+      "variants": [
+        {
+          "model": "RM10S-6B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "RM10S-6B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM10S-6B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM10S-6B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM10S-6B_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RM/RM10S-6/RM10S-6B.step",
+          "sha256": "257f8c3524209eb223d54ec00e8549e1f78baaab99bec51cb7773c9bdd1ac9da"
+        },
+        {
+          "model": "RM10S-6S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "RM10S-6S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM10S-6S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM10S-6S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM10S-6S_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RM/RM10S-6/RM10S-6S.step",
+          "sha256": "1a186c30cd196203807c07695bd5e84dbce85aa416e404bd9da951a3effc6544"
+        }
+      ]
+    },
     "RM12L-7": {
       "revision": "r1",
       "series": "RM",
