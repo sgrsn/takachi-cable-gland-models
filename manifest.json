@@ -1485,6 +1485,112 @@
         }
       ]
     },
+    "RMW16S-8": {
+      "revision": "r1",
+      "series": "RMW",
+      "source": {
+        "commit": "f4ee55ca9ab851b2b14bef2605a6bad2bb66d3f7-dirty",
+        "verified": "2026-11-25",
+        "drawing_date": "2025-10-01"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 33.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 24.0,
+          "axis": "X"
+        }
+      },
+      "mount_hole_mm": 16.2,
+      "overall_bbox": {
+        "min": [
+          -12.0,
+          -12.0,
+          -6.985
+        ],
+        "max": [
+          12.0,
+          12.0,
+          26.015
+        ]
+      },
+      "variants": [
+        {
+          "model": "RMW16S-8B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "RMW16S-8B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW16S-8B_SealingInsert",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW16S-8B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW16S-8B_ORing",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW16S-8B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMW/RMW16S-8/RMW16S-8B.step",
+          "sha256": "dbab1f106c49865c2820f42da57280888c004a30b5f9551b8303d19940459bc4"
+        },
+        {
+          "model": "RMW16S-8S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "RMW16S-8S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW16S-8S_SealingInsert",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW16S-8S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW16S-8S_ORing",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW16S-8S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMW/RMW16S-8/RMW16S-8S.step",
+          "sha256": "fb035e0e6e6122e720f146a84663838466e0bfe66f310a89be687afbe39ccc81"
+        }
+      ]
+    },
     "RMW20L-12": {
       "revision": "r1",
       "series": "RMW",
@@ -1694,6 +1800,218 @@
           ],
           "step": "models/RMW/RMW20S-12/RMW20S-12S.step",
           "sha256": "f04cae06126dba3d35c66a517c6aa90393bc027e73599f8382f3d3b88d893658"
+        }
+      ]
+    },
+    "RMW25L-17": {
+      "revision": "r1",
+      "series": "RMW",
+      "source": {
+        "commit": "f4ee55ca9ab851b2b14bef2605a6bad2bb66d3f7-dirty",
+        "verified": "2026-11-25",
+        "drawing_date": "2025-07-31"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 50.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 36.8,
+          "axis": "X"
+        }
+      },
+      "mount_hole_mm": 25.2,
+      "overall_bbox": {
+        "min": [
+          -17.75,
+          -18.4,
+          -12.462
+        ],
+        "max": [
+          17.75,
+          18.4,
+          37.538
+        ]
+      },
+      "variants": [
+        {
+          "model": "RMW25L-17B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "RMW25L-17B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW25L-17B_SealingInsert",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW25L-17B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW25L-17B_ORing",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW25L-17B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMW/RMW25L-17/RMW25L-17B.step",
+          "sha256": "2e0ed931c27d94850ab39bb83f3e6a39fe8b3511dd34967484ce06b9e773e584"
+        },
+        {
+          "model": "RMW25L-17S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "RMW25L-17S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW25L-17S_SealingInsert",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW25L-17S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW25L-17S_ORing",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW25L-17S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMW/RMW25L-17/RMW25L-17S.step",
+          "sha256": "7868789a78f49f4f5e1d03a5c7c5efcb66c3740357c96f7b229b61fec2fa1521"
+        }
+      ]
+    },
+    "RMW40L-27": {
+      "revision": "r1",
+      "series": "RMW",
+      "source": {
+        "commit": "f4ee55ca9ab851b2b14bef2605a6bad2bb66d3f7-dirty",
+        "verified": "2026-11-25",
+        "drawing_date": "2025-07-30"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 61.5,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 56.3,
+          "axis": "X"
+        }
+      },
+      "mount_hole_mm": 40.3,
+      "overall_bbox": {
+        "min": [
+          -28.15,
+          -28.15,
+          -15.056
+        ],
+        "max": [
+          28.15,
+          28.15,
+          46.444
+        ]
+      },
+      "variants": [
+        {
+          "model": "RMW40L-27B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "RMW40L-27B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW40L-27B_SealingInsert",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW40L-27B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW40L-27B_ORing",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW40L-27B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMW/RMW40L-27/RMW40L-27B.step",
+          "sha256": "5197e51c0886e422fbdb43258d45e28894e63ddbb80b8d3cf261f8c0d0dc3827"
+        },
+        {
+          "model": "RMW40L-27S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "RMW40L-27S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW40L-27S_SealingInsert",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW40L-27S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW40L-27S_ORing",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW40L-27S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMW/RMW40L-27/RMW40L-27S.step",
+          "sha256": "f64c64a28506ae630e8c263a5c9ba7ab4df9c47c4049e0f56161367f2b5743f3"
         }
       ]
     },
