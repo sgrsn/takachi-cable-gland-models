@@ -1670,6 +1670,103 @@
         }
       ]
     },
+    "RMW10S-6": {
+      "revision": "r1",
+      "series": "RMW",
+      "source": {
+        "commit": "a49a839080f9f6985031fcc86307a13c3e2e394c",
+        "verified": "2026-11-25",
+        "drawing_date": "2025-07-30"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 28.5,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 14.6,
+          "axis": "X"
+        }
+      },
+      "mount_hole_mm": 10.0,
+      "mount_hole_thread": "M10×1.5",
+      "overall_bbox": {
+        "min": [
+          -6.5,
+          -7.3,
+          -5.902
+        ],
+        "max": [
+          6.5,
+          7.3,
+          22.598
+        ]
+      },
+      "variants": [
+        {
+          "model": "RMW10S-6B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "RMW10S-6B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW10S-6B_SealingInsert",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW10S-6B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW10S-6B_ORing",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMW/RMW10S-6/RMW10S-6B.step",
+          "sha256": "cc5a74936a6a9c7459b5d81da4b328c9e34cc72aba41c901452030c6f586d16f"
+        },
+        {
+          "model": "RMW10S-6S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "RMW10S-6S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW10S-6S_SealingInsert",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW10S-6S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW10S-6S_ORing",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMW/RMW10S-6/RMW10S-6S.step",
+          "sha256": "975bfa1a884e2297720d9269f23bc0601efaffe9aa736408f33fc3f2361003bb"
+        }
+      ]
+    },
     "RMW12L-7": {
       "revision": "r1",
       "series": "RMW",
