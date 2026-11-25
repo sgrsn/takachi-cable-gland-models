@@ -1379,6 +1379,324 @@
         }
       ]
     },
+    "RMW16L-8": {
+      "revision": "r1",
+      "series": "RMW",
+      "source": {
+        "commit": "56cca7cfddbb244478a5769120f06a03a3d1ba95",
+        "verified": "2026-11-25",
+        "drawing_date": "2025-07-30"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 39.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 24.0,
+          "axis": "X"
+        }
+      },
+      "mount_hole_mm": 16.2,
+      "overall_bbox": {
+        "min": [
+          -12.0,
+          -12.0,
+          -12.985
+        ],
+        "max": [
+          12.0,
+          12.0,
+          26.015
+        ]
+      },
+      "variants": [
+        {
+          "model": "RMW16L-8B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "RMW16L-8B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW16L-8B_SealingInsert",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW16L-8B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW16L-8B_ORing",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW16L-8B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMW/RMW16L-8/RMW16L-8B.step",
+          "sha256": "8a7fe3ae76083015ead9909bbb708845c300232dd16740edc9b26291e2943be9"
+        },
+        {
+          "model": "RMW16L-8S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "RMW16L-8S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW16L-8S_SealingInsert",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW16L-8S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW16L-8S_ORing",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW16L-8S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMW/RMW16L-8/RMW16L-8S.step",
+          "sha256": "4daed2af540f9c84df8a81ff5024c20de2d82c7b9dfd7478bb915055419db34f"
+        }
+      ]
+    },
+    "RMW20L-12": {
+      "revision": "r1",
+      "series": "RMW",
+      "source": {
+        "commit": "56cca7cfddbb244478a5769120f06a03a3d1ba95",
+        "verified": "2026-11-25",
+        "drawing_date": "2025-07-31"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 43.5,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 29.0,
+          "axis": "X"
+        }
+      },
+      "mount_hole_mm": 20.2,
+      "overall_bbox": {
+        "min": [
+          -14.5,
+          -14.5,
+          -12.825
+        ],
+        "max": [
+          14.5,
+          14.5,
+          30.675
+        ]
+      },
+      "variants": [
+        {
+          "model": "RMW20L-12B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "RMW20L-12B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW20L-12B_SealingInsert",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW20L-12B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW20L-12B_ORing",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW20L-12B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMW/RMW20L-12/RMW20L-12B.step",
+          "sha256": "d07c17eec6126ee779c6c88abaf3db4ced57803e863af60adc696a22a78c6837"
+        },
+        {
+          "model": "RMW20L-12S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "RMW20L-12S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW20L-12S_SealingInsert",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW20L-12S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW20L-12S_ORing",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW20L-12S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMW/RMW20L-12/RMW20L-12S.step",
+          "sha256": "c08e8b64fbd6a8b2fc801bc7dae02705894dc4be7fff0aacb02db34429d54408"
+        }
+      ]
+    },
+    "RMW20S-12": {
+      "revision": "r1",
+      "series": "RMW",
+      "source": {
+        "commit": "56cca7cfddbb244478a5769120f06a03a3d1ba95",
+        "verified": "2026-11-25",
+        "drawing_date": "2025-07-31"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 38.5,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 29.0,
+          "axis": "X"
+        }
+      },
+      "mount_hole_mm": 20.2,
+      "overall_bbox": {
+        "min": [
+          -14.5,
+          -14.5,
+          -7.825
+        ],
+        "max": [
+          14.5,
+          14.5,
+          30.675
+        ]
+      },
+      "variants": [
+        {
+          "model": "RMW20S-12B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "RMW20S-12B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW20S-12B_SealingInsert",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW20S-12B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW20S-12B_ORing",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW20S-12B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMW/RMW20S-12/RMW20S-12B.step",
+          "sha256": "fedbf91dd805daa178cf7c48f7f61b0051522567cfa714fb1de602946eaad999"
+        },
+        {
+          "model": "RMW20S-12S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "RMW20S-12S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW20S-12S_SealingInsert",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW20S-12S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW20S-12S_ORing",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW20S-12S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMW/RMW20S-12/RMW20S-12S.step",
+          "sha256": "f04cae06126dba3d35c66a517c6aa90393bc027e73599f8382f3d3b88d893658"
+        }
+      ]
+    },
     "RMW8L-2.5": {
       "revision": "r1",
       "series": "RMW",
