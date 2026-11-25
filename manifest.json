@@ -1158,6 +1158,112 @@
         }
       ]
     },
+    "RM50L-38": {
+      "revision": "r1",
+      "series": "RM",
+      "source": {
+        "commit": "bb1eb7eb733e802050f34338285d65a9c8831c6e-dirty",
+        "verified": "2026-11-25",
+        "drawing_date": "2020-01-17"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 70.5,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 67.4,
+          "axis": "X"
+        }
+      },
+      "mount_hole_mm": 50.4,
+      "overall_bbox": {
+        "min": [
+          -33.7,
+          -33.7,
+          -16.519
+        ],
+        "max": [
+          33.7,
+          33.7,
+          53.981
+        ]
+      },
+      "variants": [
+        {
+          "model": "RM50L-38B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "RM50L-38B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM50L-38B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM50L-38B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM50L-38B_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM50L-38B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RM/RM50L-38/RM50L-38B.step",
+          "sha256": "5d8c3c12be175e40fb9e9e20bc30aa7e48beeafed41d4f0d604bc3f04c81d239"
+        },
+        {
+          "model": "RM50L-38S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "RM50L-38S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM50L-38S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM50L-38S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM50L-38S_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM50L-38S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RM/RM50L-38/RM50L-38S.step",
+          "sha256": "9a49128d4518a2a37e38d4edc5c74ffc91e5e198df63afdf72500e0ad9071580"
+        }
+      ]
+    },
     "RM8L-2.5": {
       "revision": "r1",
       "series": "RM",
