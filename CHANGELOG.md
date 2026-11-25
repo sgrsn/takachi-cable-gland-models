@@ -2,6 +2,12 @@
 
 Each line is a model and its revision in manifest.json.
 
+## 2026-11-25
+
+- RMW10L-6 r1: added
+- RMW8L-2.5 r1: added
+- RMW8L-4 r1: added
+
 ## 2026-11-24
 
 - RM10L-6 r1: added

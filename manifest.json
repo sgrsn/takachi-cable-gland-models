@@ -1272,6 +1272,324 @@
           "sha256": "51f870d87b09ac71f53557980c7ec5910e19ae8153271adc7689e83167cf5228"
         }
       ]
+    },
+    "RMW10L-6": {
+      "revision": "r1",
+      "series": "RMW",
+      "source": {
+        "commit": "c295df6e43d6bdd270633a460382c1716e9a6267",
+        "verified": "2026-11-25",
+        "drawing_date": "2025-07-30"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 33.5,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 16.8,
+          "axis": "X"
+        }
+      },
+      "mount_hole_mm": 10.2,
+      "overall_bbox": {
+        "min": [
+          -7.4,
+          -8.4,
+          -10.902
+        ],
+        "max": [
+          7.4,
+          8.4,
+          22.598
+        ]
+      },
+      "variants": [
+        {
+          "model": "RMW10L-6B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "RMW10L-6B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW10L-6B_SealingInsert",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW10L-6B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW10L-6B_ORing",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW10L-6B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMW/RMW10L-6/RMW10L-6B.step",
+          "sha256": "abc4e6c5ef27e52255fb53ddb7690c6c8e6e0734aea15b0858d34965bcb4b9d8"
+        },
+        {
+          "model": "RMW10L-6S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "RMW10L-6S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW10L-6S_SealingInsert",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW10L-6S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW10L-6S_ORing",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW10L-6S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMW/RMW10L-6/RMW10L-6S.step",
+          "sha256": "bc1de1c7c2ec59cacc7d096765a7a5e95bfa2cc95f0f3e1eff9ba0d204b95ca0"
+        }
+      ]
+    },
+    "RMW8L-2.5": {
+      "revision": "r1",
+      "series": "RMW",
+      "source": {
+        "commit": "c295df6e43d6bdd270633a460382c1716e9a6267",
+        "verified": "2026-11-25",
+        "drawing_date": "2025-07-30"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 32.5,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 14.3,
+          "axis": "X"
+        }
+      },
+      "mount_hole_mm": 8.2,
+      "overall_bbox": {
+        "min": [
+          -6.3,
+          -7.15,
+          -11.346
+        ],
+        "max": [
+          6.3,
+          7.15,
+          21.154
+        ]
+      },
+      "variants": [
+        {
+          "model": "RMW8L-2.5B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "RMW8L-2.5B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW8L-2.5B_SealingInsert",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW8L-2.5B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW8L-2.5B_ORing",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW8L-2.5B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMW/RMW8L-2.5/RMW8L-2.5B.step",
+          "sha256": "d42a36d92a007fd92a7c88cb52989a6753a07ba6701e6856fbe9bdefcdccae4e"
+        },
+        {
+          "model": "RMW8L-2.5S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "RMW8L-2.5S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW8L-2.5S_SealingInsert",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW8L-2.5S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW8L-2.5S_ORing",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW8L-2.5S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMW/RMW8L-2.5/RMW8L-2.5S.step",
+          "sha256": "fd323b176245f253d9b8aad7975a2b2fb0119b6c4d6e8063825a8ad683d0c377"
+        }
+      ]
+    },
+    "RMW8L-4": {
+      "revision": "r1",
+      "series": "RMW",
+      "source": {
+        "commit": "c295df6e43d6bdd270633a460382c1716e9a6267",
+        "verified": "2026-11-25",
+        "drawing_date": "2025-07-30"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 32.5,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 14.3,
+          "axis": "X"
+        }
+      },
+      "mount_hole_mm": 8.2,
+      "overall_bbox": {
+        "min": [
+          -6.3,
+          -7.15,
+          -11.346
+        ],
+        "max": [
+          6.3,
+          7.15,
+          21.154
+        ]
+      },
+      "variants": [
+        {
+          "model": "RMW8L-4B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "RMW8L-4B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW8L-4B_SealingInsert",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW8L-4B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW8L-4B_ORing",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW8L-4B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMW/RMW8L-4/RMW8L-4B.step",
+          "sha256": "d330fd6f0e3794709f5fcc8b0569e87675eeedcd6052a1146ee3690befd3231a"
+        },
+        {
+          "model": "RMW8L-4S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "RMW8L-4S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW8L-4S_SealingInsert",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW8L-4S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW8L-4S_ORing",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW8L-4S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMW/RMW8L-4/RMW8L-4S.step",
+          "sha256": "360fa08a6495d59b17065ac58ef9de2e9878927311bfe46c21b0bbbe8e011656"
+        }
+      ]
     }
   }
 }
