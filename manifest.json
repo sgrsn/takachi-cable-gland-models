@@ -1379,6 +1379,112 @@
         }
       ]
     },
+    "RMW12L-7": {
+      "revision": "r1",
+      "series": "RMW",
+      "source": {
+        "commit": "1f35ce62690a6817db81b100af70a10f4f1ac643",
+        "verified": "2026-11-25",
+        "drawing_date": "2023-08-04"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 35.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 19.0,
+          "axis": "X"
+        }
+      },
+      "mount_hole_mm": 12.2,
+      "overall_bbox": {
+        "min": [
+          -9.5,
+          -9.5,
+          -12.496
+        ],
+        "max": [
+          9.5,
+          9.5,
+          22.504
+        ]
+      },
+      "variants": [
+        {
+          "model": "RMW12L-7B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "RMW12L-7B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW12L-7B_SealingInsert",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW12L-7B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW12L-7B_ORing",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW12L-7B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMW/RMW12L-7/RMW12L-7B.step",
+          "sha256": "918298e9f4129cdb18c6c95aedafef72f8ff5101a3df2e2858bdecf719f5038b"
+        },
+        {
+          "model": "RMW12L-7S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "RMW12L-7S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW12L-7S_SealingInsert",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW12L-7S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW12L-7S_ORing",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW12L-7S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMW/RMW12L-7/RMW12L-7S.step",
+          "sha256": "e03a08e1912f0c7b5e36a1c394fddcbe083ebe196af2dc6d6a8b94d9b2121598"
+        }
+      ]
+    },
     "RMW16L-8": {
       "revision": "r1",
       "series": "RMW",
