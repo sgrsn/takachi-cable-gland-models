@@ -1,6 +1,102 @@
 {
   "schema": 1,
   "models": {
+    "AG12-8": {
+      "revision": "r1",
+      "series": "AG",
+      "source": {
+        "commit": "649c32f5787ba866a042fb5c9daf358ea58f3875",
+        "verified": "2026-11-25",
+        "drawing_date": "2020-01-24"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 35.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 18.8,
+          "axis": "X"
+        }
+      },
+      "mount_hole_mm": 12.2,
+      "overall_bbox": {
+        "min": [
+          -9.4,
+          -9.4,
+          -11.85
+        ],
+        "max": [
+          9.4,
+          9.4,
+          23.15
+        ]
+      },
+      "variants": [
+        {
+          "model": "AG12-8S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "AG12-8S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG12-8S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG12-8S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG12-8S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AG/AG12-8/AG12-8S.step",
+          "sha256": "635f2d5b8439de81848138bd92677da66265dd9b353acc94c03a4865d4fdf048"
+        },
+        {
+          "model": "AG12-8B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "AG12-8B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG12-8B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG12-8B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG12-8B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AG/AG12-8/AG12-8B.step",
+          "sha256": "fed0a44491164a3eafdc2707a99278f1167233722bdbcf64484d6ab71c48fede"
+        }
+      ]
+    },
     "RM10L-6": {
       "revision": "r1",
       "series": "RM",

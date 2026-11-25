@@ -23,6 +23,7 @@ Revisions are in [manifest.json](manifest.json); changes are in [CHANGELOG.md](C
 <!-- models:begin -->
 | Model | L × D (mm) | Mounting hole (mm) | Color | STEP |
 |---|---|---|---|---|
+| [AG12-8](models/AG/AG12-8/) | 35 × 18.8 | 12.2 | Light gray<br>Black | [AG12-8S](models/AG/AG12-8/AG12-8S.step)<br>[AG12-8B](models/AG/AG12-8/AG12-8B.step) |
 | [RM10L-6](models/RM/RM10L-6/) | 33.5 × 16.8 | 10.2 | Black<br>Light gray | [RM10L-6B](models/RM/RM10L-6/RM10L-6B.step)<br>[RM10L-6S](models/RM/RM10L-6/RM10L-6S.step) |
 | [RM10S-6](models/RM/RM10S-6/) | 28.5 × 14.6 | M10×1.5 | Black<br>Light gray | [RM10S-6B](models/RM/RM10S-6/RM10S-6B.step)<br>[RM10S-6S](models/RM/RM10S-6/RM10S-6S.step) |
 | [RM12L-7](models/RM/RM12L-7/) | 35 × 19 | 12.2 | Black<br>Light gray | [RM12L-7B](models/RM/RM12L-7/RM12L-7B.step)<br>[RM12L-7S](models/RM/RM12L-7/RM12L-7S.step) |
