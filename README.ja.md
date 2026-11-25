@@ -35,6 +35,7 @@
 | [RM32L-21](models/RM/RM32L-21/) | 53 × 45 | 32.3 | ブラック<br>ライトグレー | [RM32L-21B](models/RM/RM32L-21/RM32L-21B.step)<br>[RM32L-21S](models/RM/RM32L-21/RM32L-21S.step) |
 | [RM40L-27](models/RM/RM40L-27/) | 61.5 × 56.3 | 40.3 | ブラック<br>ライトグレー | [RM40L-27B](models/RM/RM40L-27/RM40L-27B.step)<br>[RM40L-27S](models/RM/RM40L-27/RM40L-27S.step) |
 | [RM50L-38](models/RM/RM50L-38/) | 70.5 × 67.4 | 50.4 | ブラック<br>ライトグレー | [RM50L-38B](models/RM/RM50L-38/RM50L-38B.step)<br>[RM50L-38S](models/RM/RM50L-38/RM50L-38S.step) |
+| [RM63L-44](models/RM/RM63L-44/) | 73 × 81 | 63.4 | ブラック<br>ライトグレー | [RM63L-44B](models/RM/RM63L-44/RM63L-44B.step)<br>[RM63L-44S](models/RM/RM63L-44/RM63L-44S.step) |
 | [RM8L-2.5](models/RM/RM8L-2.5/) | 32.5 × 14.3 | 8.2 | ブラック<br>ライトグレー | [RM8L-2.5B](models/RM/RM8L-2.5/RM8L-2.5B.step)<br>[RM8L-2.5S](models/RM/RM8L-2.5/RM8L-2.5S.step) |
 | [RM8L-4](models/RM/RM8L-4/) | 32.5 × 14.3 | 8.2 | ブラック<br>ライトグレー | [RM8L-4B](models/RM/RM8L-4/RM8L-4B.step)<br>[RM8L-4S](models/RM/RM8L-4/RM8L-4S.step) |
 | [RM8S-2.5](models/RM/RM8S-2.5/) | 27 × 13.6 | M8×1.25 | ブラック<br>ライトグレー | [RM8S-2.5B](models/RM/RM8S-2.5/RM8S-2.5B.step)<br>[RM8S-2.5S](models/RM/RM8S-2.5/RM8S-2.5S.step) |

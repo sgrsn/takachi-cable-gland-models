@@ -1264,6 +1264,112 @@
         }
       ]
     },
+    "RM63L-44": {
+      "revision": "r1",
+      "series": "RM",
+      "source": {
+        "commit": "57686e01927b73b46ee0c462fcf62f925954a3b4-dirty",
+        "verified": "2026-11-25",
+        "drawing_date": "2020-01-17"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 73.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 81.0,
+          "axis": "X"
+        }
+      },
+      "mount_hole_mm": 63.4,
+      "overall_bbox": {
+        "min": [
+          -40.5,
+          -40.5,
+          -16.546
+        ],
+        "max": [
+          40.5,
+          40.5,
+          56.454
+        ]
+      },
+      "variants": [
+        {
+          "model": "RM63L-44B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "RM63L-44B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM63L-44B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM63L-44B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM63L-44B_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM63L-44B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RM/RM63L-44/RM63L-44B.step",
+          "sha256": "935caa8e1867a37d7110c01418404ead4b93508e0c712cf62754773d337b34f1"
+        },
+        {
+          "model": "RM63L-44S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "RM63L-44S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM63L-44S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM63L-44S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM63L-44S_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM63L-44S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RM/RM63L-44/RM63L-44S.step",
+          "sha256": "8528801e09e6a2be9f76ba1871e56a9a501b263b839da4dbde166548fac2661d"
+        }
+      ]
+    },
     "RM8L-2.5": {
       "revision": "r1",
       "series": "RM",
