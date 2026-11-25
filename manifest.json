@@ -1273,6 +1273,103 @@
         }
       ]
     },
+    "RM8S-4": {
+      "revision": "r1",
+      "series": "RM",
+      "source": {
+        "commit": "db0cac84907c2e27040d7b03755ad123d9b3fe81",
+        "verified": "2026-11-25",
+        "drawing_date": "2024-10-15"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 27.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 13.6,
+          "axis": "X"
+        }
+      },
+      "mount_hole_mm": 8.0,
+      "mount_hole_thread": "M8×1.25",
+      "overall_bbox": {
+        "min": [
+          -6.0,
+          -6.8,
+          -5.846
+        ],
+        "max": [
+          6.0,
+          6.8,
+          21.154
+        ]
+      },
+      "variants": [
+        {
+          "model": "RM8S-4B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "RM8S-4B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM8S-4B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM8S-4B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM8S-4B_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RM/RM8S-4/RM8S-4B.step",
+          "sha256": "95491d4987ab56195701eb55fa05980e47a199dd335939cc806527cc8b59b748"
+        },
+        {
+          "model": "RM8S-4S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "RM8S-4S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM8S-4S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM8S-4S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM8S-4S_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RM/RM8S-4/RM8S-4S.step",
+          "sha256": "5b61dcedb7a303cc57fc64c3f9cde7cfa951849e27776f57e47edebef4b47931"
+        }
+      ]
+    },
     "RMW10L-6": {
       "revision": "r1",
       "series": "RMW",
