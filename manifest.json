@@ -1273,6 +1273,103 @@
         }
       ]
     },
+    "RM8S-2.5": {
+      "revision": "r1",
+      "series": "RM",
+      "source": {
+        "commit": "cd5f561e5643dab4feeeb5864438fd9fa7c16840",
+        "verified": "2026-11-25",
+        "drawing_date": "2024-10-15"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 27.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 13.6,
+          "axis": "X"
+        }
+      },
+      "mount_hole_mm": 8.0,
+      "mount_hole_thread": "M8×1.25",
+      "overall_bbox": {
+        "min": [
+          -6.0,
+          -6.8,
+          -5.846
+        ],
+        "max": [
+          6.0,
+          6.8,
+          21.154
+        ]
+      },
+      "variants": [
+        {
+          "model": "RM8S-2.5B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "RM8S-2.5B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM8S-2.5B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM8S-2.5B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM8S-2.5B_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RM/RM8S-2.5/RM8S-2.5B.step",
+          "sha256": "9bcc74dac55e7382cba6a111aa9d702521325f08e6055bae490ed20526bda705"
+        },
+        {
+          "model": "RM8S-2.5S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "RM8S-2.5S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM8S-2.5S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM8S-2.5S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RM8S-2.5S_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RM/RM8S-2.5/RM8S-2.5S.step",
+          "sha256": "00caded8cff997f3c60659c6075316d1ba6077bc1296f1294737ff740df9fec9"
+        }
+      ]
+    },
     "RM8S-4": {
       "revision": "r1",
       "series": "RM",

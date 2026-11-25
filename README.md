@@ -35,6 +35,7 @@ Revisions are in [manifest.json](manifest.json); changes are in [CHANGELOG.md](C
 | [RM40L-27](models/RM/RM40L-27/) | 61.5 × 56.3 | 40.3 | Black<br>Light gray | [RM40L-27B](models/RM/RM40L-27/RM40L-27B.step)<br>[RM40L-27S](models/RM/RM40L-27/RM40L-27S.step) |
 | [RM8L-2.5](models/RM/RM8L-2.5/) | 32.5 × 14.3 | 8.2 | Black<br>Light gray | [RM8L-2.5B](models/RM/RM8L-2.5/RM8L-2.5B.step)<br>[RM8L-2.5S](models/RM/RM8L-2.5/RM8L-2.5S.step) |
 | [RM8L-4](models/RM/RM8L-4/) | 32.5 × 14.3 | 8.2 | Black<br>Light gray | [RM8L-4B](models/RM/RM8L-4/RM8L-4B.step)<br>[RM8L-4S](models/RM/RM8L-4/RM8L-4S.step) |
+| [RM8S-2.5](models/RM/RM8S-2.5/) | 27 × 13.6 | M8×1.25 | Black<br>Light gray | [RM8S-2.5B](models/RM/RM8S-2.5/RM8S-2.5B.step)<br>[RM8S-2.5S](models/RM/RM8S-2.5/RM8S-2.5S.step) |
 | [RM8S-4](models/RM/RM8S-4/) | 27 × 13.6 | M8×1.25 | Black<br>Light gray | [RM8S-4B](models/RM/RM8S-4/RM8S-4B.step)<br>[RM8S-4S](models/RM/RM8S-4/RM8S-4S.step) |
 | [RMW10L-6](models/RMW/RMW10L-6/) | 33.5 × 16.8 | 10.2 | Black<br>Light gray | [RMW10L-6B](models/RMW/RMW10L-6/RMW10L-6B.step)<br>[RMW10L-6S](models/RMW/RMW10L-6/RMW10L-6S.step) |
 | [RMW12L-7](models/RMW/RMW12L-7/) | 35 × 19 | 12.2 | Black<br>Light gray | [RMW12L-7B](models/RMW/RMW12L-7/RMW12L-7B.step)<br>[RMW12L-7S](models/RMW/RMW12L-7/RMW12L-7S.step) |
