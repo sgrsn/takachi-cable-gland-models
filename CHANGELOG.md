@@ -19,6 +19,7 @@ Each line is a model and its revision in manifest.json.
 - RMW25L-17 r1: added
 - RMW32L-21 r1: added
 - RMW40L-27 r1: added
+- RMW50L-38 r1: added
 - RMW8L-2.5 r1: added
 - RMW8L-4 r1: added
 

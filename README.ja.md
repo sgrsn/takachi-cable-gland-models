@@ -50,6 +50,7 @@
 | [RMW25L-17](models/RMW/RMW25L-17/) | 50 × 36.8 | 25.2 | ブラック<br>ライトグレー | [RMW25L-17B](models/RMW/RMW25L-17/RMW25L-17B.step)<br>[RMW25L-17S](models/RMW/RMW25L-17/RMW25L-17S.step) |
 | [RMW32L-21](models/RMW/RMW32L-21/) | 53 × 45 | 32.3 | ブラック<br>ライトグレー | [RMW32L-21B](models/RMW/RMW32L-21/RMW32L-21B.step)<br>[RMW32L-21S](models/RMW/RMW32L-21/RMW32L-21S.step) |
 | [RMW40L-27](models/RMW/RMW40L-27/) | 61.5 × 56.3 | 40.3 | ブラック<br>ライトグレー | [RMW40L-27B](models/RMW/RMW40L-27/RMW40L-27B.step)<br>[RMW40L-27S](models/RMW/RMW40L-27/RMW40L-27S.step) |
+| [RMW50L-38](models/RMW/RMW50L-38/) | 70.5 × 67.4 | 50.4 | ブラック<br>ライトグレー | [RMW50L-38B](models/RMW/RMW50L-38/RMW50L-38B.step)<br>[RMW50L-38S](models/RMW/RMW50L-38/RMW50L-38S.step) |
 | [RMW8L-2.5](models/RMW/RMW8L-2.5/) | 32.5 × 14.3 | 8.2 | ブラック<br>ライトグレー | [RMW8L-2.5B](models/RMW/RMW8L-2.5/RMW8L-2.5B.step)<br>[RMW8L-2.5S](models/RMW/RMW8L-2.5/RMW8L-2.5S.step) |
 | [RMW8L-4](models/RMW/RMW8L-4/) | 32.5 × 14.3 | 8.2 | ブラック<br>ライトグレー | [RMW8L-4B](models/RMW/RMW8L-4/RMW8L-4B.step)<br>[RMW8L-4S](models/RMW/RMW8L-4/RMW8L-4S.step) |
 <!-- models:end -->

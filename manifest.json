@@ -2827,6 +2827,112 @@
         }
       ]
     },
+    "RMW50L-38": {
+      "revision": "r1",
+      "series": "RMW",
+      "source": {
+        "commit": "63cbce8918a7f5a666a57251adc4f34b4876631c-dirty",
+        "verified": "2026-11-25",
+        "drawing_date": "2020-01-30"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 70.5,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 67.4,
+          "axis": "X"
+        }
+      },
+      "mount_hole_mm": 50.4,
+      "overall_bbox": {
+        "min": [
+          -33.7,
+          -33.7,
+          -16.519
+        ],
+        "max": [
+          33.7,
+          33.7,
+          53.981
+        ]
+      },
+      "variants": [
+        {
+          "model": "RMW50L-38B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "RMW50L-38B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW50L-38B_SealingInsert",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW50L-38B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW50L-38B_ORing",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW50L-38B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMW/RMW50L-38/RMW50L-38B.step",
+          "sha256": "19dc8bfc562b5d3b04a34a2258ed31cf62e1d18e386b4f308b337885ea2be6b1"
+        },
+        {
+          "model": "RMW50L-38S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "RMW50L-38S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW50L-38S_SealingInsert",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW50L-38S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW50L-38S_ORing",
+              "color": "#1E64C8",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMW50L-38S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMW/RMW50L-38/RMW50L-38S.step",
+          "sha256": "ea2509137f13660c9e5c4f62d7ed2710c2b09463f994052d1245c0ccea6a5243"
+        }
+      ]
+    },
     "RMW8L-2.5": {
       "revision": "r1",
       "series": "RMW",
