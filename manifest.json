@@ -1414,6 +1414,156 @@
         }
       ]
     },
+    "AGE12-5": {
+      "revision": "r1",
+      "series": "AGE",
+      "source": {
+        "commit": "cb17bcc7f84b4eb377745e43d247751d2de92789-dirty",
+        "verified": "2026-11-26",
+        "drawing_date": "2020-01-28"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 32.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 16.5,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 12.2,
+      "overall_bbox": {
+        "min": [
+          -7.5,
+          -8.25,
+          -9.22
+        ],
+        "max": [
+          7.5,
+          8.25,
+          22.78
+        ]
+      },
+      "variants": [
+        {
+          "model": "AGE12-5",
+          "color": {
+            "en": "Nickel plated",
+            "ja": "ニッケルめっき"
+          },
+          "parts": [
+            {
+              "name": "AGE12-5_Cap",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGE12-5_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGE12-5_Connector",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGE12-5_ContactSpring",
+              "color": "#B8BCC2",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGE12-5_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGE12-5_LockNut",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AGE/AGE12-5/AGE12-5.step",
+          "sha256": "cb445380a52907f36882744a1f52a5dc7cfb667c20b88a1824b12afcf668fded"
+        }
+      ]
+    },
+    "AGE12-6.5": {
+      "revision": "r1",
+      "series": "AGE",
+      "source": {
+        "commit": "cb17bcc7f84b4eb377745e43d247751d2de92789-dirty",
+        "verified": "2026-11-26",
+        "drawing_date": "2020-01-28"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 32.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 16.5,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 12.2,
+      "overall_bbox": {
+        "min": [
+          -7.5,
+          -8.25,
+          -9.22
+        ],
+        "max": [
+          7.5,
+          8.25,
+          22.78
+        ]
+      },
+      "variants": [
+        {
+          "model": "AGE12-6.5",
+          "color": {
+            "en": "Nickel plated",
+            "ja": "ニッケルめっき"
+          },
+          "parts": [
+            {
+              "name": "AGE12-6.5_Cap",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGE12-6.5_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGE12-6.5_Connector",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGE12-6.5_ContactSpring",
+              "color": "#B8BCC2",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGE12-6.5_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGE12-6.5_LockNut",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AGE/AGE12-6.5/AGE12-6.5.step",
+          "sha256": "626daa5caac767b5386d6283c6bdb792c62b674815084e2a249e0640fd92bfca"
+        }
+      ]
+    },
     "AGE16-10.5": {
       "revision": "r1",
       "series": "AGE",

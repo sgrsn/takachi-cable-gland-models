@@ -38,6 +38,8 @@ Revisions are in [manifest.json](manifest.json); changes are in [CHANGELOG.md](C
 | [AG50-42](models/AG/AG50-42/) | 61 × 66 | 50.4 | Black<br>Light gray | [AG50-42B](models/AG/AG50-42/AG50-42B.step)<br>[AG50-42S](models/AG/AG50-42/AG50-42S.step) |
 | [AG8-3.5](models/AG/AG8-3.5/) | 27 × 13.2 | M8×1.0 | Black<br>Light gray | [AG8-3.5B](models/AG/AG8-3.5/AG8-3.5B.step)<br>[AG8-3.5S](models/AG/AG8-3.5/AG8-3.5S.step) |
 | [AG8-5](models/AG/AG8-5/) | 27 × 13.2 | M8×1.0 | Black<br>Light gray | [AG8-5B](models/AG/AG8-5/AG8-5B.step)<br>[AG8-5S](models/AG/AG8-5/AG8-5S.step) |
+| [AGE12-5](models/AGE/AGE12-5/) | 32 × 16.5 | 12.2 | Nickel plated | [AGE12-5](models/AGE/AGE12-5/AGE12-5.step) |
+| [AGE12-6.5](models/AGE/AGE12-6.5/) | 32 × 16.5 | 12.2 | Nickel plated | [AGE12-6.5](models/AGE/AGE12-6.5/AGE12-6.5.step) |
 | [AGE16-10.5](models/AGE/AGE16-10.5/) | 35 × 21 | 16.2 | Nickel plated | [AGE16-10.5](models/AGE/AGE16-10.5/AGE16-10.5.step) |
 | [AGE20-15](models/AGE/AGE20-15/) | 37 × 26.5 | 20.2 | Nickel plated | [AGE20-15](models/AGE/AGE20-15/AGE20-15.step) |
 | [AGE25-20](models/AGE/AGE25-20/) | 44 × 33 | 25.2 | Nickel plated | [AGE25-20](models/AGE/AGE25-20/AGE25-20.step) |

@@ -19,6 +19,8 @@ Each line is a model and its revision in manifest.json.
 - AG50-42 r1: added
 - AG8-3.5 r1: added
 - AG8-5 r1: added
+- AGE12-5 r1: added
+- AGE12-6.5 r1: added
 - AGE16-10.5 r1: added
 - AGE20-15 r1: added
 - AGE25-20 r1: added
