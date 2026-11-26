@@ -36,6 +36,7 @@ Each line is a model and its revision in manifest.json.
 - RM8L-4 r1: updated
 - RM8S-2.5 r1: updated
 - RM8S-4 r1: updated
+- RMC20-11 r1: added
 - RMW10L-6 r1: updated
 - RMW10S-6 r1: updated
 - RMW12L-7 r1: updated

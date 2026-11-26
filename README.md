@@ -55,6 +55,7 @@ Revisions are in [manifest.json](manifest.json); changes are in [CHANGELOG.md](C
 | [RM8L-4](models/RM/RM8L-4/) | 32.5 × 14.3 | 8.2 | Black<br>Light gray | [RM8L-4B](models/RM/RM8L-4/RM8L-4B.step)<br>[RM8L-4S](models/RM/RM8L-4/RM8L-4S.step) |
 | [RM8S-2.5](models/RM/RM8S-2.5/) | 27 × 13.6 | M8×1.25 | Black<br>Light gray | [RM8S-2.5B](models/RM/RM8S-2.5/RM8S-2.5B.step)<br>[RM8S-2.5S](models/RM/RM8S-2.5/RM8S-2.5S.step) |
 | [RM8S-4](models/RM/RM8S-4/) | 27 × 13.6 | M8×1.25 | Black<br>Light gray | [RM8S-4B](models/RM/RM8S-4/RM8S-4B.step)<br>[RM8S-4S](models/RM/RM8S-4/RM8S-4S.step) |
+| [RMC20-11](models/RMC/RMC20-11/) | 33.5 × 26.4 | 20.2 | Nickel plated | [RMC20-11](models/RMC/RMC20-11/RMC20-11.step) |
 | [RMW10L-6](models/RMW/RMW10L-6/) | 33.5 × 16.8 | 10.2 | Black<br>Light gray | [RMW10L-6B](models/RMW/RMW10L-6/RMW10L-6B.step)<br>[RMW10L-6S](models/RMW/RMW10L-6/RMW10L-6S.step) |
 | [RMW10S-6](models/RMW/RMW10S-6/) | 28.5 × 14.6 | M10×1.5 | Black<br>Light gray | [RMW10S-6B](models/RMW/RMW10S-6/RMW10S-6B.step)<br>[RMW10S-6S](models/RMW/RMW10S-6/RMW10S-6S.step) |
 | [RMW12L-7](models/RMW/RMW12L-7/) | 35 × 19 | 12.2 | Black<br>Light gray | [RMW12L-7B](models/RMW/RMW12L-7/RMW12L-7B.step)<br>[RMW12L-7S](models/RMW/RMW12L-7/RMW12L-7S.step) |

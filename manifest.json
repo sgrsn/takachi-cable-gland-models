@@ -3189,6 +3189,76 @@
         }
       ]
     },
+    "RMC20-11": {
+      "revision": "r1",
+      "series": "RMC",
+      "source": {
+        "commit": "8eefac615d8d805e0d3466053d3a62eee469b10f-dirty",
+        "verified": "2026-11-26",
+        "drawing_date": "2024-11-13"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 33.5,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 26.4,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 20.2,
+      "overall_bbox": {
+        "min": [
+          -12.0,
+          -13.2,
+          -9.0
+        ],
+        "max": [
+          12.0,
+          13.2,
+          24.5
+        ]
+      },
+      "variants": [
+        {
+          "model": "RMC20-11",
+          "color": {
+            "en": "Nickel plated",
+            "ja": "ニッケルめっき"
+          },
+          "parts": [
+            {
+              "name": "RMC20-11_Cap",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC20-11_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC20-11_Connector",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC20-11_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC20-11_LockNut",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMC/RMC20-11/RMC20-11.step",
+          "sha256": "4a6d4c72904378985aaaa4e188270984b722dd815a885de1be847c494fc9b544"
+        }
+      ]
+    },
     "RMW10L-6": {
       "revision": "r1",
       "series": "RMW",
