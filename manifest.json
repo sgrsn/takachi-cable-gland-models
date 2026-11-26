@@ -3259,6 +3259,146 @@
         }
       ]
     },
+    "RMC12-6.5": {
+      "revision": "r1",
+      "series": "RMC",
+      "source": {
+        "commit": "5f97f680f59ab811ba1c7a1c3dc45698ed72bfcc-dirty",
+        "verified": "2026-11-26",
+        "drawing_date": "2024-11-13"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 28.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 16.5,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 12.2,
+      "overall_bbox": {
+        "min": [
+          -7.5,
+          -8.25,
+          -9.3
+        ],
+        "max": [
+          7.5,
+          8.25,
+          18.7
+        ]
+      },
+      "variants": [
+        {
+          "model": "RMC12-6.5",
+          "color": {
+            "en": "Nickel plated",
+            "ja": "ニッケルめっき"
+          },
+          "parts": [
+            {
+              "name": "RMC12-6.5_Cap",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC12-6.5_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC12-6.5_Connector",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC12-6.5_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC12-6.5_LockNut",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMC/RMC12-6.5/RMC12-6.5.step",
+          "sha256": "28d5fe0ad230d8c16deb7a65e6da3fa6abd5ea7862017b3016d44ab3b02a754c"
+        }
+      ]
+    },
+    "RMC16-8": {
+      "revision": "r1",
+      "series": "RMC",
+      "source": {
+        "commit": "5f97f680f59ab811ba1c7a1c3dc45698ed72bfcc-dirty",
+        "verified": "2026-11-26",
+        "drawing_date": "2024-11-13"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 33.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 19.8,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 16.2,
+      "overall_bbox": {
+        "min": [
+          -9.0,
+          -9.9,
+          -9.0
+        ],
+        "max": [
+          9.0,
+          9.9,
+          23.999
+        ]
+      },
+      "variants": [
+        {
+          "model": "RMC16-8",
+          "color": {
+            "en": "Nickel plated",
+            "ja": "ニッケルめっき"
+          },
+          "parts": [
+            {
+              "name": "RMC16-8_Cap",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC16-8_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC16-8_Connector",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC16-8_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC16-8_LockNut",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMC/RMC16-8/RMC16-8.step",
+          "sha256": "d49a0f290bc097d048ab2cb180e0feca40c83f62ba3016f67b2af2d9fdff71ad"
+        }
+      ]
+    },
     "RMC20-11": {
       "revision": "r1",
       "series": "RMC",
