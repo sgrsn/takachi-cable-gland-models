@@ -1839,6 +1839,76 @@
         }
       ]
     },
+    "AGH32-25.5": {
+      "revision": "r1",
+      "series": "AGH",
+      "source": {
+        "commit": "bb61bb24cd6f78dad03a43f1225083a5b23d105f-dirty",
+        "verified": "2026-11-26",
+        "drawing_date": "2020-01-28"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 41.5,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 40.0,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 32.3,
+      "overall_bbox": {
+        "min": [
+          -18.0,
+          -20.0,
+          -12.03
+        ],
+        "max": [
+          18.0,
+          20.0,
+          29.47
+        ]
+      },
+      "variants": [
+        {
+          "model": "AGH32-25.5",
+          "color": {
+            "en": "Nickel plated",
+            "ja": "ニッケルめっき"
+          },
+          "parts": [
+            {
+              "name": "AGH32-25.5_Cap",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGH32-25.5_SealingInsert",
+              "color": "#2E7D32",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGH32-25.5_Connector",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGH32-25.5_ORing",
+              "color": "#2E7D32",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGH32-25.5_LockNut",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AGH/AGH32-25.5/AGH32-25.5.step",
+          "sha256": "52a022edd558ed4650dd5dda95890693e8f24a4db0f46e876e0bf81aad8c0a7a"
+        }
+      ]
+    },
     "AGM10-6": {
       "revision": "r1",
       "series": "AGM",
@@ -2186,6 +2256,76 @@
           ],
           "step": "models/AGM/AGM25-20/AGM25-20.step",
           "sha256": "e9fbb384a036d1dd636130d630d98a91a72946e8a262b8cb2a2c7f5299d04123"
+        }
+      ]
+    },
+    "AGM32-25.5": {
+      "revision": "r1",
+      "series": "AGM",
+      "source": {
+        "commit": "bb61bb24cd6f78dad03a43f1225083a5b23d105f-dirty",
+        "verified": "2026-11-26",
+        "drawing_date": "2020-01-27"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 42.5,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 40.0,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 32.3,
+      "overall_bbox": {
+        "min": [
+          -18.0,
+          -20.0,
+          -12.03
+        ],
+        "max": [
+          18.0,
+          20.0,
+          30.47
+        ]
+      },
+      "variants": [
+        {
+          "model": "AGM32-25.5",
+          "color": {
+            "en": "Nickel plated",
+            "ja": "ニッケルめっき"
+          },
+          "parts": [
+            {
+              "name": "AGM32-25.5_Cap",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGM32-25.5_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGM32-25.5_Connector",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGM32-25.5_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGM32-25.5_LockNut",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AGM/AGM32-25.5/AGM32-25.5.step",
+          "sha256": "de0b2b968111cfcbd71e35e6cedb25d962c950795b6b629c867c9a1dd436e0ea"
         }
       ]
     },

@@ -44,11 +44,13 @@ Revisions are in [manifest.json](manifest.json); changes are in [CHANGELOG.md](C
 | [AGH16-10.5](models/AGH/AGH16-10.5/) | 30 × 21 | 16.2 | Nickel plated | [AGH16-10.5](models/AGH/AGH16-10.5/AGH16-10.5.step) |
 | [AGH20-15](models/AGH/AGH20-15/) | 33 × 26.5 | 20.2 | Nickel plated | [AGH20-15](models/AGH/AGH20-15/AGH20-15.step) |
 | [AGH25-20](models/AGH/AGH25-20/) | 38 × 33 | 25.2 | Nickel plated | [AGH25-20](models/AGH/AGH25-20/AGH25-20.step) |
+| [AGH32-25.5](models/AGH/AGH32-25.5/) | 41.5 × 40 | 32.3 | Nickel plated | [AGH32-25.5](models/AGH/AGH32-25.5/AGH32-25.5.step) |
 | [AGM10-6](models/AGM/AGM10-6/) | 25.2 × 14.31 | 10.2 | Nickel plated | [AGM10-6](models/AGM/AGM10-6/AGM10-6.step) |
 | [AGM12-8](models/AGM/AGM12-8/) | 27 × 16.5 | 12.2 | Nickel plated | [AGM12-8](models/AGM/AGM12-8/AGM12-8.step) |
 | [AGM16-10.5](models/AGM/AGM16-10.5/) | 31 × 21 | 16.2 | Nickel plated | [AGM16-10.5](models/AGM/AGM16-10.5/AGM16-10.5.step) |
 | [AGM20-15](models/AGM/AGM20-15/) | 33 × 26.5 | 20.2 | Nickel plated | [AGM20-15](models/AGM/AGM20-15/AGM20-15.step) |
 | [AGM25-20](models/AGM/AGM25-20/) | 39 × 33 | 25.2 | Nickel plated | [AGM25-20](models/AGM/AGM25-20/AGM25-20.step) |
+| [AGM32-25.5](models/AGM/AGM32-25.5/) | 42.5 × 40 | 32.3 | Nickel plated | [AGM32-25.5](models/AGM/AGM32-25.5/AGM32-25.5.step) |
 | [AGM40-28.5](models/AGM/AGM40-28.5/) | 45 × 51 | 40.3 | Nickel plated | [AGM40-28.5](models/AGM/AGM40-28.5/AGM40-28.5.step) |
 | [AGM50-37](models/AGM/AGM50-37/) | 48 × 60 | 50.4 | Nickel plated | [AGM50-37](models/AGM/AGM50-37/AGM50-37.step) |
 | [AGM6-3](models/AGM/AGM6-3/) | 20 × 10 | 6.2 | Nickel plated | [AGM6-3](models/AGM/AGM6-3/AGM6-3.step) |
