@@ -97,6 +97,93 @@
         }
       ]
     },
+    "AG8-3.5": {
+      "revision": "r1",
+      "series": "AG",
+      "source": {
+        "commit": "18bbee042678459fc1bef1df7af0d0fcf0e9c16a",
+        "verified": "2026-11-26",
+        "drawing_date": "2020-01-24"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 27.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 13.2,
+          "axis": "X"
+        }
+      },
+      "mount_hole_mm": 8.0,
+      "mount_hole_thread": "M8×1.0",
+      "overall_bbox": {
+        "min": [
+          -6.0,
+          -6.6,
+          -9.9
+        ],
+        "max": [
+          6.0,
+          6.6,
+          17.1
+        ]
+      },
+      "variants": [
+        {
+          "model": "AG8-3.5B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "AG8-3.5B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG8-3.5B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG8-3.5B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AG/AG8-3.5/AG8-3.5B.step",
+          "sha256": "3319c49abbad093fdf230d407623d5e9e1096f2b61341c0f815da0b05fb84411"
+        },
+        {
+          "model": "AG8-3.5S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "AG8-3.5S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG8-3.5S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG8-3.5S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AG/AG8-3.5/AG8-3.5S.step",
+          "sha256": "2f38c9401efa7cc936f11316077099c18b2d371ea34a4756c7d14e79872e2728"
+        }
+      ]
+    },
     "RM10L-6": {
       "revision": "r1",
       "series": "RM",
