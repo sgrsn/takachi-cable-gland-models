@@ -32,6 +32,8 @@
 | [AG25-16](models/AG/AG25-16/) | 47 × 37.4 | 25.2 | ブラック<br>ライトグレー | [AG25-16B](models/AG/AG25-16/AG25-16B.step)<br>[AG25-16S](models/AG/AG25-16/AG25-16S.step) |
 | [AG25-20](models/AG/AG25-20/) | 47 × 37.4 | 25.2 | ブラック<br>ライトグレー | [AG25-20B](models/AG/AG25-20/AG25-20B.step)<br>[AG25-20S](models/AG/AG25-20/AG25-20S.step) |
 | [AG32-25.5](models/AG/AG32-25.5/) | 51 × 46 | 32.3 | ブラック<br>ライトグレー | [AG32-25.5B](models/AG/AG32-25.5/AG32-25.5B.step)<br>[AG32-25.5S](models/AG/AG32-25.5/AG32-25.5S.step) |
+| [AG40-28.5](models/AG/AG40-28.5/) | 56 × 55.4 | 40.3 | ブラック<br>ライトグレー | [AG40-28.5B](models/AG/AG40-28.5/AG40-28.5B.step)<br>[AG40-28.5S](models/AG/AG40-28.5/AG40-28.5S.step) |
+| [AG40-33](models/AG/AG40-33/) | 56 × 55.4 | 40.3 | ブラック<br>ライトグレー | [AG40-33B](models/AG/AG40-33/AG40-33B.step)<br>[AG40-33S](models/AG/AG40-33/AG40-33S.step) |
 | [AG50-37](models/AG/AG50-37/) | 61 × 66 | 50.4 | ブラック<br>ライトグレー | [AG50-37B](models/AG/AG50-37/AG50-37B.step)<br>[AG50-37S](models/AG/AG50-37/AG50-37S.step) |
 | [AG50-42](models/AG/AG50-42/) | 61 × 66 | 50.4 | ブラック<br>ライトグレー | [AG50-42B](models/AG/AG50-42/AG50-42B.step)<br>[AG50-42S](models/AG/AG50-42/AG50-42S.step) |
 | [AG8-3.5](models/AG/AG8-3.5/) | 27 × 13.2 | M8×1.0 | ブラック<br>ライトグレー | [AG8-3.5B](models/AG/AG8-3.5/AG8-3.5B.step)<br>[AG8-3.5S](models/AG/AG8-3.5/AG8-3.5S.step) |

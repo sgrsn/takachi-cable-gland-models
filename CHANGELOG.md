@@ -13,6 +13,8 @@ Each line is a model and its revision in manifest.json.
 - AG25-16 r1: added
 - AG25-20 r1: added
 - AG32-25.5 r1: added
+- AG40-28.5 r1: added
+- AG40-33 r1: added
 - AG50-37 r1: added
 - AG50-42 r1: added
 - AG8-3.5 r1: added

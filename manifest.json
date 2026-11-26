@@ -856,6 +856,198 @@
         }
       ]
     },
+    "AG40-28.5": {
+      "revision": "r1",
+      "series": "AG",
+      "source": {
+        "commit": "51c6d9741c51499483eb1f20afe0a62255d29d2a",
+        "verified": "2026-11-26",
+        "drawing_date": "2020-01-27"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 56.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 55.4,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 40.3,
+      "overall_bbox": {
+        "min": [
+          -26.75,
+          -27.7,
+          -14.8
+        ],
+        "max": [
+          26.75,
+          27.7,
+          41.2
+        ]
+      },
+      "variants": [
+        {
+          "model": "AG40-28.5B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "AG40-28.5B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG40-28.5B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG40-28.5B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG40-28.5B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AG/AG40-28.5/AG40-28.5B.step",
+          "sha256": "5ead97b6c516390bbd625c322fe4efcc06e9fa8897b5d559fdab15b04456776e"
+        },
+        {
+          "model": "AG40-28.5S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "AG40-28.5S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG40-28.5S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG40-28.5S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG40-28.5S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AG/AG40-28.5/AG40-28.5S.step",
+          "sha256": "2acad1d2ecf4af067af1cbe31f2ed754570161825cc2c160e7faae4f664cdddd"
+        }
+      ]
+    },
+    "AG40-33": {
+      "revision": "r1",
+      "series": "AG",
+      "source": {
+        "commit": "51c6d9741c51499483eb1f20afe0a62255d29d2a",
+        "verified": "2026-11-26",
+        "drawing_date": "2020-01-27"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 56.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 55.4,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 40.3,
+      "overall_bbox": {
+        "min": [
+          -26.75,
+          -27.7,
+          -14.8
+        ],
+        "max": [
+          26.75,
+          27.7,
+          41.2
+        ]
+      },
+      "variants": [
+        {
+          "model": "AG40-33B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "AG40-33B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG40-33B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG40-33B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG40-33B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AG/AG40-33/AG40-33B.step",
+          "sha256": "4b31a40af556a902ff051cf80f011cafe2011bf4f36bec3389f45f5c897de85a"
+        },
+        {
+          "model": "AG40-33S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "AG40-33S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG40-33S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG40-33S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG40-33S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AG/AG40-33/AG40-33S.step",
+          "sha256": "c1416dbd456b03521cf449bb5230cb573eb4680a9b4bbf14423856e4441892eb"
+        }
+      ]
+    },
     "AG50-37": {
       "revision": "r1",
       "series": "AG",
