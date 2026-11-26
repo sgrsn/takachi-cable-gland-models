@@ -2469,6 +2469,76 @@
         }
       ]
     },
+    "AGM6-2.5": {
+      "revision": "r1",
+      "series": "AGM",
+      "source": {
+        "commit": "106e39010010a38e174e709cdd675c7c44612770-dirty",
+        "verified": "2026-11-26",
+        "drawing_date": "2020-01-27"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 20.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 10.0,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 6.2,
+      "overall_bbox": {
+        "min": [
+          -4.5,
+          -5.0,
+          -7.42
+        ],
+        "max": [
+          4.5,
+          5.0,
+          12.58
+        ]
+      },
+      "variants": [
+        {
+          "model": "AGM6-2.5",
+          "color": {
+            "en": "Nickel plated",
+            "ja": "ニッケルめっき"
+          },
+          "parts": [
+            {
+              "name": "AGM6-2.5_Cap",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGM6-2.5_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGM6-2.5_Connector",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGM6-2.5_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGM6-2.5_LockNut",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AGM/AGM6-2.5/AGM6-2.5.step",
+          "sha256": "0cbe7ccc867782845e7aee3ce530d1b719ab0660c650e4e137d2f5ab74b5a5e4"
+        }
+      ]
+    },
     "AGM6-3": {
       "revision": "r1",
       "series": "AGM",
@@ -2536,6 +2606,76 @@
           ],
           "step": "models/AGM/AGM6-3/AGM6-3.step",
           "sha256": "009867ca260177265ff1ec98f1df0a8c3a9320d2406ea4da9ca49d5e4b0bec3f"
+        }
+      ]
+    },
+    "AGM6-3.5": {
+      "revision": "r1",
+      "series": "AGM",
+      "source": {
+        "commit": "106e39010010a38e174e709cdd675c7c44612770-dirty",
+        "verified": "2026-11-26",
+        "drawing_date": "2020-01-27"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 20.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 10.0,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 6.2,
+      "overall_bbox": {
+        "min": [
+          -4.5,
+          -5.0,
+          -7.42
+        ],
+        "max": [
+          4.5,
+          5.0,
+          12.58
+        ]
+      },
+      "variants": [
+        {
+          "model": "AGM6-3.5",
+          "color": {
+            "en": "Nickel plated",
+            "ja": "ニッケルめっき"
+          },
+          "parts": [
+            {
+              "name": "AGM6-3.5_Cap",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGM6-3.5_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGM6-3.5_Connector",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGM6-3.5_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGM6-3.5_LockNut",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AGM/AGM6-3.5/AGM6-3.5.step",
+          "sha256": "898c16fb333d8329864493b806a8a49227a1fc1b47af389f94989c33658380ac"
         }
       ]
     },
