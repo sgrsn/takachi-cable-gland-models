@@ -38,9 +38,12 @@ Revisions are in [manifest.json](manifest.json); changes are in [CHANGELOG.md](C
 | [AG50-42](models/AG/AG50-42/) | 61 × 66 | 50.4 | Black<br>Light gray | [AG50-42B](models/AG/AG50-42/AG50-42B.step)<br>[AG50-42S](models/AG/AG50-42/AG50-42S.step) |
 | [AG8-3.5](models/AG/AG8-3.5/) | 27 × 13.2 | M8×1.0 | Black<br>Light gray | [AG8-3.5B](models/AG/AG8-3.5/AG8-3.5B.step)<br>[AG8-3.5S](models/AG/AG8-3.5/AG8-3.5S.step) |
 | [AG8-5](models/AG/AG8-5/) | 27 × 13.2 | M8×1.0 | Black<br>Light gray | [AG8-5B](models/AG/AG8-5/AG8-5B.step)<br>[AG8-5S](models/AG/AG8-5/AG8-5S.step) |
+| [AGE16-10.5](models/AGE/AGE16-10.5/) | 35 × 21 | 16.2 | Nickel plated | [AGE16-10.5](models/AGE/AGE16-10.5/AGE16-10.5.step) |
 | [AGH10-6](models/AGH/AGH10-6/) | 25 × 14.31 | 10.2 | Nickel plated | [AGH10-6](models/AGH/AGH10-6/AGH10-6.step) |
 | [AGM10-6](models/AGM/AGM10-6/) | 25.2 × 14.31 | 10.2 | Nickel plated | [AGM10-6](models/AGM/AGM10-6/AGM10-6.step) |
 | [AGM16-10.5](models/AGM/AGM16-10.5/) | 31 × 21 | 16.2 | Nickel plated | [AGM16-10.5](models/AGM/AGM16-10.5/AGM16-10.5.step) |
+| [AGM40-28.5](models/AGM/AGM40-28.5/) | 45 × 51 | 40.3 | Nickel plated | [AGM40-28.5](models/AGM/AGM40-28.5/AGM40-28.5.step) |
+| [AGM50-37](models/AGM/AGM50-37/) | 48 × 60 | 50.4 | Nickel plated | [AGM50-37](models/AGM/AGM50-37/AGM50-37.step) |
 | [AGM6-3](models/AGM/AGM6-3/) | 20 × 10 | 6.2 | Nickel plated | [AGM6-3](models/AGM/AGM6-3/AGM6-3.step) |
 | [AGM8-5](models/AGM/AGM8-5/) | 24 × 12.1 | 8.2 | Nickel plated | [AGM8-5](models/AGM/AGM8-5/AGM8-5.step) |
 | [RM10L-6](models/RM/RM10L-6/) | 33.5 × 16.8 | 10.2 | Black<br>Light gray | [RM10L-6B](models/RM/RM10L-6/RM10L-6B.step)<br>[RM10L-6S](models/RM/RM10L-6/RM10L-6S.step) |
