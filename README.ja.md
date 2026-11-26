@@ -38,6 +38,7 @@
 | [AG50-42](models/AG/AG50-42/) | 61 × 66 | 50.4 | ブラック<br>ライトグレー | [AG50-42B](models/AG/AG50-42/AG50-42B.step)<br>[AG50-42S](models/AG/AG50-42/AG50-42S.step) |
 | [AG8-3.5](models/AG/AG8-3.5/) | 27 × 13.2 | M8×1.0 | ブラック<br>ライトグレー | [AG8-3.5B](models/AG/AG8-3.5/AG8-3.5B.step)<br>[AG8-3.5S](models/AG/AG8-3.5/AG8-3.5S.step) |
 | [AG8-5](models/AG/AG8-5/) | 27 × 13.2 | M8×1.0 | ブラック<br>ライトグレー | [AG8-5B](models/AG/AG8-5/AG8-5B.step)<br>[AG8-5S](models/AG/AG8-5/AG8-5S.step) |
+| [AGM16-10.5](models/AGM/AGM16-10.5/) | 31 × 21 | 16.2 | ニッケルめっき | [AGM16-10.5](models/AGM/AGM16-10.5/AGM16-10.5.step) |
 | [RM10L-6](models/RM/RM10L-6/) | 33.5 × 16.8 | 10.2 | ブラック<br>ライトグレー | [RM10L-6B](models/RM/RM10L-6/RM10L-6B.step)<br>[RM10L-6S](models/RM/RM10L-6/RM10L-6S.step) |
 | [RM10S-6](models/RM/RM10S-6/) | 28.5 × 14.6 | M10×1.5 | ブラック<br>ライトグレー | [RM10S-6B](models/RM/RM10S-6/RM10S-6B.step)<br>[RM10S-6S](models/RM/RM10S-6/RM10S-6S.step) |
 | [RM12L-7](models/RM/RM12L-7/) | 35 × 19 | 12.2 | ブラック<br>ライトグレー | [RM12L-7B](models/RM/RM12L-7/RM12L-7B.step)<br>[RM12L-7S](models/RM/RM12L-7/RM12L-7S.step) |
