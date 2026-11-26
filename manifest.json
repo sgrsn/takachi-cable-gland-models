@@ -1559,6 +1559,146 @@
         }
       ]
     },
+    "AGH12-8": {
+      "revision": "r1",
+      "series": "AGH",
+      "source": {
+        "commit": "acd25d4750e7a36c9a1f8ad472f5ba5be1a2ecb0-dirty",
+        "verified": "2026-11-26",
+        "drawing_date": "2020-01-28"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 27.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 16.5,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 12.2,
+      "overall_bbox": {
+        "min": [
+          -7.5,
+          -8.25,
+          -9.25
+        ],
+        "max": [
+          7.5,
+          8.25,
+          17.75
+        ]
+      },
+      "variants": [
+        {
+          "model": "AGH12-8",
+          "color": {
+            "en": "Nickel plated",
+            "ja": "ニッケルめっき"
+          },
+          "parts": [
+            {
+              "name": "AGH12-8_Cap",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGH12-8_SealingInsert",
+              "color": "#2E7D32",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGH12-8_Connector",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGH12-8_ORing",
+              "color": "#2E7D32",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGH12-8_LockNut",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AGH/AGH12-8/AGH12-8.step",
+          "sha256": "e0fb067b27d7b895dd5affd5268ca03e8116746cb251c917aceb8d9c937b1883"
+        }
+      ]
+    },
+    "AGH16-10.5": {
+      "revision": "r1",
+      "series": "AGH",
+      "source": {
+        "commit": "acd25d4750e7a36c9a1f8ad472f5ba5be1a2ecb0-dirty",
+        "verified": "2026-11-26",
+        "drawing_date": "2020-01-28"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 30.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 21.0,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 16.2,
+      "overall_bbox": {
+        "min": [
+          -9.5,
+          -10.5,
+          -9.2
+        ],
+        "max": [
+          9.5,
+          10.5,
+          20.8
+        ]
+      },
+      "variants": [
+        {
+          "model": "AGH16-10.5",
+          "color": {
+            "en": "Nickel plated",
+            "ja": "ニッケルめっき"
+          },
+          "parts": [
+            {
+              "name": "AGH16-10.5_Cap",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGH16-10.5_SealingInsert",
+              "color": "#2E7D32",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGH16-10.5_Connector",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGH16-10.5_ORing",
+              "color": "#2E7D32",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGH16-10.5_LockNut",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AGH/AGH16-10.5/AGH16-10.5.step",
+          "sha256": "a46740f9c41077ebfab4657edee1cbaec117c36d8a37a65c6da1aa9542f33d73"
+        }
+      ]
+    },
     "AGM10-6": {
       "revision": "r1",
       "series": "AGM",
@@ -1629,6 +1769,76 @@
         }
       ]
     },
+    "AGM12-8": {
+      "revision": "r1",
+      "series": "AGM",
+      "source": {
+        "commit": "acd25d4750e7a36c9a1f8ad472f5ba5be1a2ecb0-dirty",
+        "verified": "2026-11-26",
+        "drawing_date": "2020-01-27"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 27.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 16.5,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 12.2,
+      "overall_bbox": {
+        "min": [
+          -7.5,
+          -8.25,
+          -9.25
+        ],
+        "max": [
+          7.5,
+          8.25,
+          17.75
+        ]
+      },
+      "variants": [
+        {
+          "model": "AGM12-8",
+          "color": {
+            "en": "Nickel plated",
+            "ja": "ニッケルめっき"
+          },
+          "parts": [
+            {
+              "name": "AGM12-8_Cap",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGM12-8_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGM12-8_Connector",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGM12-8_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGM12-8_LockNut",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AGM/AGM12-8/AGM12-8.step",
+          "sha256": "9b8c23124fcf4b1719ee954dade2c47d4d868cda5c92a47796eca9b348e32f7f"
+        }
+      ]
+    },
     "AGM16-10.5": {
       "revision": "r1",
       "series": "AGM",
@@ -1696,6 +1906,76 @@
           ],
           "step": "models/AGM/AGM16-10.5/AGM16-10.5.step",
           "sha256": "0ef93bafffcff8126a23bb6aeba4ca8e007b0f262238c3395b128a5eacd5a9b5"
+        }
+      ]
+    },
+    "AGM20-15": {
+      "revision": "r1",
+      "series": "AGM",
+      "source": {
+        "commit": "acd25d4750e7a36c9a1f8ad472f5ba5be1a2ecb0-dirty",
+        "verified": "2026-11-26",
+        "drawing_date": "2020-01-27"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 33.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 26.5,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 20.2,
+      "overall_bbox": {
+        "min": [
+          -12.0,
+          -13.25,
+          -9.11
+        ],
+        "max": [
+          12.0,
+          13.25,
+          23.89
+        ]
+      },
+      "variants": [
+        {
+          "model": "AGM20-15",
+          "color": {
+            "en": "Nickel plated",
+            "ja": "ニッケルめっき"
+          },
+          "parts": [
+            {
+              "name": "AGM20-15_Cap",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGM20-15_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGM20-15_Connector",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGM20-15_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGM20-15_LockNut",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AGM/AGM20-15/AGM20-15.step",
+          "sha256": "43702a2cf42aea9059a7c38b5c26db46e3d57b391df336c9e74078ccaf19d003"
         }
       ]
     },
