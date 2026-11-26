@@ -3399,6 +3399,146 @@
         }
       ]
     },
+    "RMC25-16": {
+      "revision": "r1",
+      "series": "RMC",
+      "source": {
+        "commit": "4f9a0a065459b2de2421fffa303f3582b2611659-dirty",
+        "verified": "2026-11-26",
+        "drawing_date": "2024-11-13"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 39.5,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 33.0,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 25.2,
+      "overall_bbox": {
+        "min": [
+          -15.0,
+          -16.5,
+          -9.867
+        ],
+        "max": [
+          15.0,
+          16.5,
+          29.633
+        ]
+      },
+      "variants": [
+        {
+          "model": "RMC25-16",
+          "color": {
+            "en": "Nickel plated",
+            "ja": "ニッケルめっき"
+          },
+          "parts": [
+            {
+              "name": "RMC25-16_Cap",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC25-16_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC25-16_Connector",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC25-16_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC25-16_LockNut",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMC/RMC25-16/RMC25-16.step",
+          "sha256": "9a93e76adcde604f0e49d94113f5f15c395d6fd4b769bfae4ddee3dd51bacf2f"
+        }
+      ]
+    },
+    "RMC32-21": {
+      "revision": "r1",
+      "series": "RMC",
+      "source": {
+        "commit": "4f9a0a065459b2de2421fffa303f3582b2611659-dirty",
+        "verified": "2026-11-26",
+        "drawing_date": "2024-06-13"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 43.5,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 39.6,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 32.3,
+      "overall_bbox": {
+        "min": [
+          -18.0,
+          -19.8,
+          -11.84
+        ],
+        "max": [
+          18.0,
+          19.8,
+          31.66
+        ]
+      },
+      "variants": [
+        {
+          "model": "RMC32-21",
+          "color": {
+            "en": "Nickel plated",
+            "ja": "ニッケルめっき"
+          },
+          "parts": [
+            {
+              "name": "RMC32-21_Cap",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC32-21_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC32-21_Connector",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC32-21_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC32-21_LockNut",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMC/RMC32-21/RMC32-21.step",
+          "sha256": "809601ff51ad1c93cbbbfcc7a4c3268604cea06bc2334dbfe9ed9c3f8485ad66"
+        }
+      ]
+    },
     "RMW10L-6": {
       "revision": "r1",
       "series": "RMW",
