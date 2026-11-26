@@ -23,6 +23,9 @@
 <!-- models:begin -->
 | 型番 | L × D (mm) | 取付穴径 (mm) | 色 | STEP |
 |---|---|---|---|---|
+| [AG10-6](models/AG/AG10-6/) | 29 × 16.5 | M10×1.0 | ブラック<br>ライトグレー | [AG10-6B](models/AG/AG10-6/AG10-6B.step)<br>[AG10-6S](models/AG/AG10-6/AG10-6S.step) |
+| [AG12-5](models/AG/AG12-5/) | 35.5 × 18.8 | 12.2 | ブラック<br>ライトグレー | [AG12-5B](models/AG/AG12-5/AG12-5B.step)<br>[AG12-5S](models/AG/AG12-5/AG12-5S.step) |
+| [AG12-6.5](models/AG/AG12-6.5/) | 35 × 18.8 | 12.2 | ブラック<br>ライトグレー | [AG12-6.5B](models/AG/AG12-6.5/AG12-6.5B.step)<br>[AG12-6.5S](models/AG/AG12-6.5/AG12-6.5S.step) |
 | [AG12-8](models/AG/AG12-8/) | 35 × 18.8 | 12.2 | ライトグレー<br>ブラック | [AG12-8S](models/AG/AG12-8/AG12-8S.step)<br>[AG12-8B](models/AG/AG12-8/AG12-8B.step) |
 | [AG16-10](models/AG/AG16-10/) | 38 × 24.3 | 16.2 | ブラック<br>ライトグレー | [AG16-10B](models/AG/AG16-10/AG16-10B.step)<br>[AG16-10S](models/AG/AG16-10/AG16-10S.step) |
 | [AG20-15](models/AG/AG20-15/) | 40 × 29.7 | 20.2 | ブラック<br>ライトグレー | [AG20-15B](models/AG/AG20-15/AG20-15B.step)<br>[AG20-15S](models/AG/AG20-15/AG20-15S.step) |
