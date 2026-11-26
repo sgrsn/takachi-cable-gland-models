@@ -4594,6 +4594,76 @@
         }
       ]
     },
+    "RMC12-7.5": {
+      "revision": "r1",
+      "series": "RMC",
+      "source": {
+        "commit": "a604c7ad04dc3eca5856b9f6a7e016c26598b247-dirty",
+        "verified": "2026-11-26",
+        "drawing_date": "2024-11-13"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 28.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 16.5,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 12.2,
+      "overall_bbox": {
+        "min": [
+          -7.5,
+          -8.25,
+          -9.3
+        ],
+        "max": [
+          7.5,
+          8.25,
+          18.7
+        ]
+      },
+      "variants": [
+        {
+          "model": "RMC12-7.5",
+          "color": {
+            "en": "Nickel plated",
+            "ja": "ニッケルめっき"
+          },
+          "parts": [
+            {
+              "name": "RMC12-7.5_Cap",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC12-7.5_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC12-7.5_Connector",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC12-7.5_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC12-7.5_LockNut",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMC/RMC12-7.5/RMC12-7.5.step",
+          "sha256": "a40365e31f2c1dcf73b3168ce172c6f4d681f02afd55efc31ed8bdfcb05cf83a"
+        }
+      ]
+    },
     "RMC16-8": {
       "revision": "r1",
       "series": "RMC",
