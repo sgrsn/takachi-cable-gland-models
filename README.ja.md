@@ -81,6 +81,7 @@
 | [RMC20-11](models/RMC/RMC20-11/) | 33.5 × 26.4 | 20.2 | ニッケルめっき | [RMC20-11](models/RMC/RMC20-11/RMC20-11.step) |
 | [RMC20-14.5](models/RMC/RMC20-14.5/) | 33.5 × 26.4 | 20.2 | ニッケルめっき | [RMC20-14.5](models/RMC/RMC20-14.5/RMC20-14.5.step) |
 | [RMC25-16](models/RMC/RMC25-16/) | 39.5 × 33 | 25.2 | ニッケルめっき | [RMC25-16](models/RMC/RMC25-16/RMC25-16.step) |
+| [RMC25-19](models/RMC/RMC25-19/) | 39.5 × 33 | 25.2 | ニッケルめっき | [RMC25-19](models/RMC/RMC25-19/RMC25-19.step) |
 | [RMC32-21](models/RMC/RMC32-21/) | 43.5 × 39.6 | 32.3 | ニッケルめっき | [RMC32-21](models/RMC/RMC32-21/RMC32-21.step) |
 | [RMC32-25.5](models/RMC/RMC32-25.5/) | 43.5 × 39.6 | 32.3 | ニッケルめっき | [RMC32-25.5](models/RMC/RMC32-25.5/RMC32-25.5.step) |
 | [RMW10L-6](models/RMW/RMW10L-6/) | 33.5 × 16.8 | 10.2 | ブラック<br>ライトグレー | [RMW10L-6B](models/RMW/RMW10L-6/RMW10L-6B.step)<br>[RMW10L-6S](models/RMW/RMW10L-6/RMW10L-6S.step) |

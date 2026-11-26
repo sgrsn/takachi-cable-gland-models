@@ -5014,6 +5014,76 @@
         }
       ]
     },
+    "RMC25-19": {
+      "revision": "r1",
+      "series": "RMC",
+      "source": {
+        "commit": "7168c26f260a87de80048306862f1761f165b1b9-dirty",
+        "verified": "2026-11-26",
+        "drawing_date": "2024-11-13"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 39.5,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 33.0,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 25.2,
+      "overall_bbox": {
+        "min": [
+          -15.0,
+          -16.5,
+          -9.867
+        ],
+        "max": [
+          15.0,
+          16.5,
+          29.633
+        ]
+      },
+      "variants": [
+        {
+          "model": "RMC25-19",
+          "color": {
+            "en": "Nickel plated",
+            "ja": "ニッケルめっき"
+          },
+          "parts": [
+            {
+              "name": "RMC25-19_Cap",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC25-19_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC25-19_Connector",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC25-19_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC25-19_LockNut",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMC/RMC25-19/RMC25-19.step",
+          "sha256": "adfc6edb6815fd0ccb722afffc32f887eb8ea364552830b6ca9e328872446b0c"
+        }
+      ]
+    },
     "RMC32-21": {
       "revision": "r1",
       "series": "RMC",
