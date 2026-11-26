@@ -5,9 +5,15 @@ Each line is a model and its revision in manifest.json.
 ## 2026-11-26
 
 - AG12-8 r1: updated
+- AG16-10 r1: added
+- AG20-15 r1: added
 - AG25-16 r1: added
 - AG25-20 r1: added
+- AG32-25.5 r1: added
+- AG50-37 r1: added
+- AG50-42 r1: added
 - AG8-3.5 r1: added
+- AG8-5 r1: added
 - RM10L-6 r1: updated
 - RM10S-6 r1: updated
 - RM12L-7 r1: updated

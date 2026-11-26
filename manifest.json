@@ -97,6 +97,198 @@
         }
       ]
     },
+    "AG16-10": {
+      "revision": "r1",
+      "series": "AG",
+      "source": {
+        "commit": "e22deb27ceb645b801388e9c6bf76a552082c299",
+        "verified": "2026-11-26",
+        "drawing_date": "2020-01-24"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 38.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 24.3,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 16.2,
+      "overall_bbox": {
+        "min": [
+          -12.15,
+          -12.15,
+          -11.8
+        ],
+        "max": [
+          12.15,
+          12.15,
+          26.2
+        ]
+      },
+      "variants": [
+        {
+          "model": "AG16-10B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "AG16-10B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG16-10B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG16-10B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG16-10B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AG/AG16-10/AG16-10B.step",
+          "sha256": "238f278007b44648bd9d7c1c7394ee090be233765417af713ff53e50057dbb4c"
+        },
+        {
+          "model": "AG16-10S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "AG16-10S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG16-10S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG16-10S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG16-10S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AG/AG16-10/AG16-10S.step",
+          "sha256": "6c2eee5caf6044816516cb512d72faf61bd1b70b3b0da9be37b531883f3000ed"
+        }
+      ]
+    },
+    "AG20-15": {
+      "revision": "r1",
+      "series": "AG",
+      "source": {
+        "commit": "e22deb27ceb645b801388e9c6bf76a552082c299",
+        "verified": "2026-11-26",
+        "drawing_date": "2020-01-24"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 40.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 29.7,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 20.2,
+      "overall_bbox": {
+        "min": [
+          -14.5,
+          -14.85,
+          -12.8
+        ],
+        "max": [
+          14.5,
+          14.85,
+          27.2
+        ]
+      },
+      "variants": [
+        {
+          "model": "AG20-15B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "AG20-15B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG20-15B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG20-15B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG20-15B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AG/AG20-15/AG20-15B.step",
+          "sha256": "03b8dca2a9359306a1c93259a63e927e5bec2e0ca3052dc153d3e39d1a9162b8"
+        },
+        {
+          "model": "AG20-15S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "AG20-15S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG20-15S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG20-15S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG20-15S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AG/AG20-15/AG20-15S.step",
+          "sha256": "7e6f95c762030f6ef43014281e786600d23b433aee0b188125b9342935f0e541"
+        }
+      ]
+    },
     "AG25-16": {
       "revision": "r1",
       "series": "AG",
@@ -289,6 +481,294 @@
         }
       ]
     },
+    "AG32-25.5": {
+      "revision": "r1",
+      "series": "AG",
+      "source": {
+        "commit": "e22deb27ceb645b801388e9c6bf76a552082c299",
+        "verified": "2026-11-26",
+        "drawing_date": "2020-01-27"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 51.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 46.0,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 32.3,
+      "overall_bbox": {
+        "min": [
+          -23.0,
+          -23.0,
+          -14.8
+        ],
+        "max": [
+          23.0,
+          23.0,
+          36.2
+        ]
+      },
+      "variants": [
+        {
+          "model": "AG32-25.5B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "AG32-25.5B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG32-25.5B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG32-25.5B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG32-25.5B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AG/AG32-25.5/AG32-25.5B.step",
+          "sha256": "e23aaa080f91f7f18714674c405251655d6d0bc7a86948a1867dfbdc0bc625c8"
+        },
+        {
+          "model": "AG32-25.5S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "AG32-25.5S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG32-25.5S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG32-25.5S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG32-25.5S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AG/AG32-25.5/AG32-25.5S.step",
+          "sha256": "43c1ad623225f931fcbcd0b37eec665aa77e58a53f2038084120e18a8a877d53"
+        }
+      ]
+    },
+    "AG50-37": {
+      "revision": "r1",
+      "series": "AG",
+      "source": {
+        "commit": "e22deb27ceb645b801388e9c6bf76a552082c299",
+        "verified": "2026-11-26",
+        "drawing_date": "2020-01-27"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 61.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 66.0,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 50.4,
+      "overall_bbox": {
+        "min": [
+          -33.0,
+          -33.0,
+          -15.8
+        ],
+        "max": [
+          33.0,
+          33.0,
+          45.2
+        ]
+      },
+      "variants": [
+        {
+          "model": "AG50-37B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "AG50-37B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG50-37B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG50-37B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG50-37B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AG/AG50-37/AG50-37B.step",
+          "sha256": "ab647eb8e20f9518a022e87af0bbeff8f98e4af2e947e43e094f4ef39396568d"
+        },
+        {
+          "model": "AG50-37S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "AG50-37S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG50-37S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG50-37S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG50-37S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AG/AG50-37/AG50-37S.step",
+          "sha256": "de34bbc4c833b640bdd1b542b41f9c8c11dc03d9099ca6d1b2652af742ffd955"
+        }
+      ]
+    },
+    "AG50-42": {
+      "revision": "r1",
+      "series": "AG",
+      "source": {
+        "commit": "e22deb27ceb645b801388e9c6bf76a552082c299",
+        "verified": "2026-11-26",
+        "drawing_date": "2020-01-27"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 61.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 66.0,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 50.4,
+      "overall_bbox": {
+        "min": [
+          -33.0,
+          -33.0,
+          -15.8
+        ],
+        "max": [
+          33.0,
+          33.0,
+          45.2
+        ]
+      },
+      "variants": [
+        {
+          "model": "AG50-42B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "AG50-42B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG50-42B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG50-42B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG50-42B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AG/AG50-42/AG50-42B.step",
+          "sha256": "261b77661309120d623d52d46f3d6ff3759d34be7ac5fbadc61c670f2363cb13"
+        },
+        {
+          "model": "AG50-42S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "AG50-42S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG50-42S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG50-42S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG50-42S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AG/AG50-42/AG50-42S.step",
+          "sha256": "b890ed1171ce372ab12a23e5d69668e348f352267c0a73a22e1207b2a461e731"
+        }
+      ]
+    },
     "AG8-3.5": {
       "revision": "r1",
       "series": "AG",
@@ -373,6 +853,93 @@
           ],
           "step": "models/AG/AG8-3.5/AG8-3.5S.step",
           "sha256": "2f38c9401efa7cc936f11316077099c18b2d371ea34a4756c7d14e79872e2728"
+        }
+      ]
+    },
+    "AG8-5": {
+      "revision": "r1",
+      "series": "AG",
+      "source": {
+        "commit": "e22deb27ceb645b801388e9c6bf76a552082c299",
+        "verified": "2026-11-26",
+        "drawing_date": "2020-01-24"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 27.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 13.2,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 8.0,
+      "mount_hole_thread": "M8×1.0",
+      "overall_bbox": {
+        "min": [
+          -6.0,
+          -6.6,
+          -9.9
+        ],
+        "max": [
+          6.0,
+          6.6,
+          17.1
+        ]
+      },
+      "variants": [
+        {
+          "model": "AG8-5B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "AG8-5B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG8-5B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG8-5B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AG/AG8-5/AG8-5B.step",
+          "sha256": "675c3e5af30e09b3b4d2cec95a6b9cee934d1ae63a9420a72550a763e1236508"
+        },
+        {
+          "model": "AG8-5S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "AG8-5S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG8-5S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG8-5S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AG/AG8-5/AG8-5S.step",
+          "sha256": "4a778410cc0774aa7e3f4a6ba95508336fad34adf256dd99011c34f27ebffb89"
         }
       ]
     },

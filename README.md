@@ -24,9 +24,15 @@ Revisions are in [manifest.json](manifest.json); changes are in [CHANGELOG.md](C
 | Model | L × D (mm) | Mounting hole (mm) | Color | STEP |
 |---|---|---|---|---|
 | [AG12-8](models/AG/AG12-8/) | 35 × 18.8 | 12.2 | Light gray<br>Black | [AG12-8S](models/AG/AG12-8/AG12-8S.step)<br>[AG12-8B](models/AG/AG12-8/AG12-8B.step) |
+| [AG16-10](models/AG/AG16-10/) | 38 × 24.3 | 16.2 | Black<br>Light gray | [AG16-10B](models/AG/AG16-10/AG16-10B.step)<br>[AG16-10S](models/AG/AG16-10/AG16-10S.step) |
+| [AG20-15](models/AG/AG20-15/) | 40 × 29.7 | 20.2 | Black<br>Light gray | [AG20-15B](models/AG/AG20-15/AG20-15B.step)<br>[AG20-15S](models/AG/AG20-15/AG20-15S.step) |
 | [AG25-16](models/AG/AG25-16/) | 47 × 37.4 | 25.2 | Black<br>Light gray | [AG25-16B](models/AG/AG25-16/AG25-16B.step)<br>[AG25-16S](models/AG/AG25-16/AG25-16S.step) |
 | [AG25-20](models/AG/AG25-20/) | 47 × 37.4 | 25.2 | Black<br>Light gray | [AG25-20B](models/AG/AG25-20/AG25-20B.step)<br>[AG25-20S](models/AG/AG25-20/AG25-20S.step) |
+| [AG32-25.5](models/AG/AG32-25.5/) | 51 × 46 | 32.3 | Black<br>Light gray | [AG32-25.5B](models/AG/AG32-25.5/AG32-25.5B.step)<br>[AG32-25.5S](models/AG/AG32-25.5/AG32-25.5S.step) |
+| [AG50-37](models/AG/AG50-37/) | 61 × 66 | 50.4 | Black<br>Light gray | [AG50-37B](models/AG/AG50-37/AG50-37B.step)<br>[AG50-37S](models/AG/AG50-37/AG50-37S.step) |
+| [AG50-42](models/AG/AG50-42/) | 61 × 66 | 50.4 | Black<br>Light gray | [AG50-42B](models/AG/AG50-42/AG50-42B.step)<br>[AG50-42S](models/AG/AG50-42/AG50-42S.step) |
 | [AG8-3.5](models/AG/AG8-3.5/) | 27 × 13.2 | M8×1.0 | Black<br>Light gray | [AG8-3.5B](models/AG/AG8-3.5/AG8-3.5B.step)<br>[AG8-3.5S](models/AG/AG8-3.5/AG8-3.5S.step) |
+| [AG8-5](models/AG/AG8-5/) | 27 × 13.2 | M8×1.0 | Black<br>Light gray | [AG8-5B](models/AG/AG8-5/AG8-5B.step)<br>[AG8-5S](models/AG/AG8-5/AG8-5S.step) |
 | [RM10L-6](models/RM/RM10L-6/) | 33.5 × 16.8 | 10.2 | Black<br>Light gray | [RM10L-6B](models/RM/RM10L-6/RM10L-6B.step)<br>[RM10L-6S](models/RM/RM10L-6/RM10L-6S.step) |
 | [RM10S-6](models/RM/RM10S-6/) | 28.5 × 14.6 | M10×1.5 | Black<br>Light gray | [RM10S-6B](models/RM/RM10S-6/RM10S-6B.step)<br>[RM10S-6S](models/RM/RM10S-6/RM10S-6S.step) |
 | [RM12L-7](models/RM/RM12L-7/) | 35 × 19 | 12.2 | Black<br>Light gray | [RM12L-7B](models/RM/RM12L-7/RM12L-7B.step)<br>[RM12L-7S](models/RM/RM12L-7/RM12L-7S.step) |
