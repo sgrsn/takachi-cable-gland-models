@@ -42,10 +42,13 @@
 | [AGH10-6](models/AGH/AGH10-6/) | 25 × 14.31 | 10.2 | ニッケルめっき | [AGH10-6](models/AGH/AGH10-6/AGH10-6.step) |
 | [AGH12-8](models/AGH/AGH12-8/) | 27 × 16.5 | 12.2 | ニッケルめっき | [AGH12-8](models/AGH/AGH12-8/AGH12-8.step) |
 | [AGH16-10.5](models/AGH/AGH16-10.5/) | 30 × 21 | 16.2 | ニッケルめっき | [AGH16-10.5](models/AGH/AGH16-10.5/AGH16-10.5.step) |
+| [AGH20-15](models/AGH/AGH20-15/) | 33 × 26.5 | 20.2 | ニッケルめっき | [AGH20-15](models/AGH/AGH20-15/AGH20-15.step) |
+| [AGH25-20](models/AGH/AGH25-20/) | 38 × 33 | 25.2 | ニッケルめっき | [AGH25-20](models/AGH/AGH25-20/AGH25-20.step) |
 | [AGM10-6](models/AGM/AGM10-6/) | 25.2 × 14.31 | 10.2 | ニッケルめっき | [AGM10-6](models/AGM/AGM10-6/AGM10-6.step) |
 | [AGM12-8](models/AGM/AGM12-8/) | 27 × 16.5 | 12.2 | ニッケルめっき | [AGM12-8](models/AGM/AGM12-8/AGM12-8.step) |
 | [AGM16-10.5](models/AGM/AGM16-10.5/) | 31 × 21 | 16.2 | ニッケルめっき | [AGM16-10.5](models/AGM/AGM16-10.5/AGM16-10.5.step) |
 | [AGM20-15](models/AGM/AGM20-15/) | 33 × 26.5 | 20.2 | ニッケルめっき | [AGM20-15](models/AGM/AGM20-15/AGM20-15.step) |
+| [AGM25-20](models/AGM/AGM25-20/) | 39 × 33 | 25.2 | ニッケルめっき | [AGM25-20](models/AGM/AGM25-20/AGM25-20.step) |
 | [AGM40-28.5](models/AGM/AGM40-28.5/) | 45 × 51 | 40.3 | ニッケルめっき | [AGM40-28.5](models/AGM/AGM40-28.5/AGM40-28.5.step) |
 | [AGM50-37](models/AGM/AGM50-37/) | 48 × 60 | 50.4 | ニッケルめっき | [AGM50-37](models/AGM/AGM50-37/AGM50-37.step) |
 | [AGM6-3](models/AGM/AGM6-3/) | 20 × 10 | 6.2 | ニッケルめっき | [AGM6-3](models/AGM/AGM6-3/AGM6-3.step) |
