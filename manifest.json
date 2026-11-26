@@ -3329,6 +3329,76 @@
         }
       ]
     },
+    "RMC20-14.5": {
+      "revision": "r1",
+      "series": "RMC",
+      "source": {
+        "commit": "69cc289c322f03ec62a3ff6d10fe8b448845e1d9-dirty",
+        "verified": "2026-11-26",
+        "drawing_date": "2024-11-13"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 33.5,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 26.4,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 20.2,
+      "overall_bbox": {
+        "min": [
+          -12.0,
+          -13.2,
+          -9.0
+        ],
+        "max": [
+          12.0,
+          13.2,
+          24.5
+        ]
+      },
+      "variants": [
+        {
+          "model": "RMC20-14.5",
+          "color": {
+            "en": "Nickel plated",
+            "ja": "ニッケルめっき"
+          },
+          "parts": [
+            {
+              "name": "RMC20-14.5_Cap",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC20-14.5_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC20-14.5_Connector",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC20-14.5_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC20-14.5_LockNut",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMC/RMC20-14.5/RMC20-14.5.step",
+          "sha256": "78c844fa1eaff29e2d8b89d79af230c84bca1d96944cebb8ab05c6537c578c65"
+        }
+      ]
+    },
     "RMW10L-6": {
       "revision": "r1",
       "series": "RMW",

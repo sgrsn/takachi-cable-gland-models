@@ -57,6 +57,7 @@
 | [RM8S-2.5](models/RM/RM8S-2.5/) | 27 × 13.6 | M8×1.25 | ブラック<br>ライトグレー | [RM8S-2.5B](models/RM/RM8S-2.5/RM8S-2.5B.step)<br>[RM8S-2.5S](models/RM/RM8S-2.5/RM8S-2.5S.step) |
 | [RM8S-4](models/RM/RM8S-4/) | 27 × 13.6 | M8×1.25 | ブラック<br>ライトグレー | [RM8S-4B](models/RM/RM8S-4/RM8S-4B.step)<br>[RM8S-4S](models/RM/RM8S-4/RM8S-4S.step) |
 | [RMC20-11](models/RMC/RMC20-11/) | 33.5 × 26.4 | 20.2 | ニッケルめっき | [RMC20-11](models/RMC/RMC20-11/RMC20-11.step) |
+| [RMC20-14.5](models/RMC/RMC20-14.5/) | 33.5 × 26.4 | 20.2 | ニッケルめっき | [RMC20-14.5](models/RMC/RMC20-14.5/RMC20-14.5.step) |
 | [RMW10L-6](models/RMW/RMW10L-6/) | 33.5 × 16.8 | 10.2 | ブラック<br>ライトグレー | [RMW10L-6B](models/RMW/RMW10L-6/RMW10L-6B.step)<br>[RMW10L-6S](models/RMW/RMW10L-6/RMW10L-6S.step) |
 | [RMW10S-6](models/RMW/RMW10S-6/) | 28.5 × 14.6 | M10×1.5 | ブラック<br>ライトグレー | [RMW10S-6B](models/RMW/RMW10S-6/RMW10S-6B.step)<br>[RMW10S-6S](models/RMW/RMW10S-6/RMW10S-6S.step) |
 | [RMW12L-7](models/RMW/RMW12L-7/) | 35 × 19 | 12.2 | ブラック<br>ライトグレー | [RMW12L-7B](models/RMW/RMW12L-7/RMW12L-7B.step)<br>[RMW12L-7S](models/RMW/RMW12L-7/RMW12L-7S.step) |
