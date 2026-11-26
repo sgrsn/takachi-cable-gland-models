@@ -2399,6 +2399,76 @@
         }
       ]
     },
+    "AGM40-33": {
+      "revision": "r1",
+      "series": "AGM",
+      "source": {
+        "commit": "fd033ec774c99477dfacc8eac6f1a6351d362ad1-dirty",
+        "verified": "2026-11-26",
+        "drawing_date": "2020-01-28"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 45.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 51.0,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 40.3,
+      "overall_bbox": {
+        "min": [
+          -23.0,
+          -25.5,
+          -11.6
+        ],
+        "max": [
+          23.0,
+          25.5,
+          33.4
+        ]
+      },
+      "variants": [
+        {
+          "model": "AGM40-33",
+          "color": {
+            "en": "Nickel plated",
+            "ja": "ニッケルめっき"
+          },
+          "parts": [
+            {
+              "name": "AGM40-33_Cap",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGM40-33_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGM40-33_Connector",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGM40-33_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGM40-33_LockNut",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AGM/AGM40-33/AGM40-33.step",
+          "sha256": "75777eefc817eea0df19c70ac29ca80601a29bb5b1ef028b17f19cd6c8e7c21f"
+        }
+      ]
+    },
     "AGM50-37": {
       "revision": "r1",
       "series": "AGM",
@@ -2466,6 +2536,76 @@
           ],
           "step": "models/AGM/AGM50-37/AGM50-37.step",
           "sha256": "4852d94566f3f1b14233bf07b021fb1a3411270a17d6439c60e686761da93ff7"
+        }
+      ]
+    },
+    "AGM50-42": {
+      "revision": "r1",
+      "series": "AGM",
+      "source": {
+        "commit": "fd033ec774c99477dfacc8eac6f1a6351d362ad1-dirty",
+        "verified": "2026-11-26",
+        "drawing_date": "2020-01-28"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 48.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 60.0,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 50.4,
+      "overall_bbox": {
+        "min": [
+          -27.5,
+          -30.0,
+          -13.22
+        ],
+        "max": [
+          27.5,
+          30.0,
+          34.78
+        ]
+      },
+      "variants": [
+        {
+          "model": "AGM50-42",
+          "color": {
+            "en": "Nickel plated",
+            "ja": "ニッケルめっき"
+          },
+          "parts": [
+            {
+              "name": "AGM50-42_Cap",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGM50-42_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGM50-42_Connector",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGM50-42_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AGM50-42_LockNut",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AGM/AGM50-42/AGM50-42.step",
+          "sha256": "39dfd9a2e360f63e154d4e68646f3ae2db1adab24a1fe54fb50fe66b4bd9490d"
         }
       ]
     },

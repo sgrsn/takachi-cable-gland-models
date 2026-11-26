@@ -52,7 +52,9 @@
 | [AGM25-20](models/AGM/AGM25-20/) | 39 × 33 | 25.2 | ニッケルめっき | [AGM25-20](models/AGM/AGM25-20/AGM25-20.step) |
 | [AGM32-25.5](models/AGM/AGM32-25.5/) | 42.5 × 40 | 32.3 | ニッケルめっき | [AGM32-25.5](models/AGM/AGM32-25.5/AGM32-25.5.step) |
 | [AGM40-28.5](models/AGM/AGM40-28.5/) | 45 × 51 | 40.3 | ニッケルめっき | [AGM40-28.5](models/AGM/AGM40-28.5/AGM40-28.5.step) |
+| [AGM40-33](models/AGM/AGM40-33/) | 45 × 51 | 40.3 | ニッケルめっき | [AGM40-33](models/AGM/AGM40-33/AGM40-33.step) |
 | [AGM50-37](models/AGM/AGM50-37/) | 48 × 60 | 50.4 | ニッケルめっき | [AGM50-37](models/AGM/AGM50-37/AGM50-37.step) |
+| [AGM50-42](models/AGM/AGM50-42/) | 48 × 60 | 50.4 | ニッケルめっき | [AGM50-42](models/AGM/AGM50-42/AGM50-42.step) |
 | [AGM6-2.5](models/AGM/AGM6-2.5/) | 20 × 10 | 6.2 | ニッケルめっき | [AGM6-2.5](models/AGM/AGM6-2.5/AGM6-2.5.step) |
 | [AGM6-3](models/AGM/AGM6-3/) | 20 × 10 | 6.2 | ニッケルめっき | [AGM6-3](models/AGM/AGM6-3/AGM6-3.step) |
 | [AGM6-3.5](models/AGM/AGM6-3.5/) | 20 × 10 | 6.2 | ニッケルめっき | [AGM6-3.5](models/AGM/AGM6-3.5/AGM6-3.5.step) |
