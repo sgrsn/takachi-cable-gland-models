@@ -4664,6 +4664,76 @@
         }
       ]
     },
+    "RMC16-10.5": {
+      "revision": "r1",
+      "series": "RMC",
+      "source": {
+        "commit": "cb6d6dcf1d83bc7626b7434198dab7a09fa72d41-dirty",
+        "verified": "2026-11-26",
+        "drawing_date": "2024-11-13"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 33.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 19.8,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 16.2,
+      "overall_bbox": {
+        "min": [
+          -9.0,
+          -9.9,
+          -9.0
+        ],
+        "max": [
+          9.0,
+          9.9,
+          23.999
+        ]
+      },
+      "variants": [
+        {
+          "model": "RMC16-10.5",
+          "color": {
+            "en": "Nickel plated",
+            "ja": "ニッケルめっき"
+          },
+          "parts": [
+            {
+              "name": "RMC16-10.5_Cap",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC16-10.5_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC16-10.5_Connector",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC16-10.5_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC16-10.5_LockNut",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMC/RMC16-10.5/RMC16-10.5.step",
+          "sha256": "0e17185b2b8eb1950c3b23bb43d8ba090192fd071bcea373f1cb1bf8bd60c656"
+        }
+      ]
+    },
     "RMC16-8": {
       "revision": "r1",
       "series": "RMC",
@@ -5011,6 +5081,76 @@
           ],
           "step": "models/RMC/RMC32-21/RMC32-21.step",
           "sha256": "809601ff51ad1c93cbbbfcc7a4c3268604cea06bc2334dbfe9ed9c3f8485ad66"
+        }
+      ]
+    },
+    "RMC32-25.5": {
+      "revision": "r1",
+      "series": "RMC",
+      "source": {
+        "commit": "cb6d6dcf1d83bc7626b7434198dab7a09fa72d41-dirty",
+        "verified": "2026-11-26",
+        "drawing_date": "2024-06-13"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 43.5,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 39.6,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 32.3,
+      "overall_bbox": {
+        "min": [
+          -18.0,
+          -19.8,
+          -11.84
+        ],
+        "max": [
+          18.0,
+          19.8,
+          31.66
+        ]
+      },
+      "variants": [
+        {
+          "model": "RMC32-25.5",
+          "color": {
+            "en": "Nickel plated",
+            "ja": "ニッケルめっき"
+          },
+          "parts": [
+            {
+              "name": "RMC32-25.5_Cap",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC32-25.5_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC32-25.5_Connector",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC32-25.5_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMC32-25.5_LockNut",
+              "color": "#C8CACC",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMC/RMC32-25.5/RMC32-25.5.step",
+          "sha256": "5fd1976d28bca53586ee43c6ca396e8940d74611b109bfe88980ae796b3d6855"
         }
       ]
     },
