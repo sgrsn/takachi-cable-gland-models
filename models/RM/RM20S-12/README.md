@@ -15,7 +15,7 @@
 
 ## Dimensions
 
-| mm | L (Z) | D (X) |
+| mm | L (Z) | D (Y) |
 |---|---|---|
 | Drawing | 38.5 | 29 |
 | Overall (all parts) | 38.5 | 29 |

@@ -5,7 +5,7 @@
       "revision": "r1",
       "series": "AG",
       "source": {
-        "commit": "649c32f5787ba866a042fb5c9daf358ea58f3875",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-25",
         "drawing_date": "2020-01-24"
       },
@@ -16,7 +16,7 @@
         },
         "D": {
           "mm": 18.8,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 12.2,
@@ -97,11 +97,203 @@
         }
       ]
     },
+    "AG25-16": {
+      "revision": "r1",
+      "series": "AG",
+      "source": {
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
+        "verified": "2026-11-26",
+        "drawing_date": "2020-01-24"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 47.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 37.4,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 25.2,
+      "overall_bbox": {
+        "min": [
+          -18.0,
+          -18.7,
+          -12.8
+        ],
+        "max": [
+          18.0,
+          18.7,
+          34.2
+        ]
+      },
+      "variants": [
+        {
+          "model": "AG25-16B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "AG25-16B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG25-16B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG25-16B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG25-16B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AG/AG25-16/AG25-16B.step",
+          "sha256": "6feee069f41a97898e9d13ef0c4b292af5f0c647152ddf5726f68260492538a9"
+        },
+        {
+          "model": "AG25-16S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "AG25-16S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG25-16S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG25-16S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG25-16S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AG/AG25-16/AG25-16S.step",
+          "sha256": "7e30124465e3c705822f2fca8fe23f881edde4e6f1751a434a004e150bb9b25d"
+        }
+      ]
+    },
+    "AG25-20": {
+      "revision": "r1",
+      "series": "AG",
+      "source": {
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
+        "verified": "2026-11-26",
+        "drawing_date": "2020-01-24"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 47.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 37.4,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 25.2,
+      "overall_bbox": {
+        "min": [
+          -18.0,
+          -18.7,
+          -12.8
+        ],
+        "max": [
+          18.0,
+          18.7,
+          34.2
+        ]
+      },
+      "variants": [
+        {
+          "model": "AG25-20B",
+          "color": {
+            "en": "Black",
+            "ja": "ブラック"
+          },
+          "parts": [
+            {
+              "name": "AG25-20B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG25-20B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG25-20B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG25-20B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AG/AG25-20/AG25-20B.step",
+          "sha256": "88d553965486d57908b073ae7b6b5a7859ff978890b8af06866949c81730c745"
+        },
+        {
+          "model": "AG25-20S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "AG25-20S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG25-20S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG25-20S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "AG25-20S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/AG/AG25-20/AG25-20S.step",
+          "sha256": "63a913c828c6c282815d586ffd5c12c9bbb2ec81d01992487c235997420df26e"
+        }
+      ]
+    },
     "AG8-3.5": {
       "revision": "r1",
       "series": "AG",
       "source": {
-        "commit": "18bbee042678459fc1bef1df7af0d0fcf0e9c16a",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-26",
         "drawing_date": "2020-01-24"
       },
@@ -112,7 +304,7 @@
         },
         "D": {
           "mm": 13.2,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 8.0,
@@ -188,7 +380,7 @@
       "revision": "r1",
       "series": "RM",
       "source": {
-        "commit": "8d1ffae3bd3584c18fcb2974b89e5eabecbd7ed5",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-24",
         "drawing_date": "2024-10-15"
       },
@@ -199,7 +391,7 @@
         },
         "D": {
           "mm": 16.8,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 10.2,
@@ -294,7 +486,7 @@
       "revision": "r1",
       "series": "RM",
       "source": {
-        "commit": "24bfdf5e81c97e37cf70960deb611d8a62614c24",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-25",
         "drawing_date": "2024-10-15"
       },
@@ -305,7 +497,7 @@
         },
         "D": {
           "mm": 14.6,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 10.0,
@@ -391,7 +583,7 @@
       "revision": "r1",
       "series": "RM",
       "source": {
-        "commit": "65f3366d3b263b87e859dbb3a5e726e2dce47056",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-24",
         "drawing_date": "2024-10-15"
       },
@@ -402,7 +594,7 @@
         },
         "D": {
           "mm": 19.0,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 12.2,
@@ -497,7 +689,7 @@
       "revision": "r2",
       "series": "RM",
       "source": {
-        "commit": "c623bb0687563d10349b9c4089e0f5795b8f3e47",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-24",
         "drawing_date": "2024-10-15"
       },
@@ -508,7 +700,7 @@
         },
         "D": {
           "mm": 19.0,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 12.2,
@@ -603,7 +795,7 @@
       "revision": "r1",
       "series": "RM",
       "source": {
-        "commit": "16830fa58768b8ff0351f97519a1bfea6f2acf8b-dirty",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-24",
         "drawing_date": "2024-10-15"
       },
@@ -614,7 +806,7 @@
         },
         "D": {
           "mm": 24.0,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 16.2,
@@ -709,7 +901,7 @@
       "revision": "r1",
       "series": "RM",
       "source": {
-        "commit": "2936e97692e4fa492bdea25d9683195afefc9181",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-24",
         "drawing_date": "2024-10-15"
       },
@@ -720,7 +912,7 @@
         },
         "D": {
           "mm": 24.0,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 16.2,
@@ -815,7 +1007,7 @@
       "revision": "r1",
       "series": "RM",
       "source": {
-        "commit": "b94ae9a335b82a3abbec1a0d7172ff37789a85c5",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-24",
         "drawing_date": "2024-10-15"
       },
@@ -826,7 +1018,7 @@
         },
         "D": {
           "mm": 29.0,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 20.2,
@@ -921,7 +1113,7 @@
       "revision": "r1",
       "series": "RM",
       "source": {
-        "commit": "e4c004ce5c0ce64fad09b520a5f6646919fd8a41-dirty",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-24",
         "drawing_date": "2024-10-15"
       },
@@ -932,7 +1124,7 @@
         },
         "D": {
           "mm": 29.0,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 20.2,
@@ -1027,7 +1219,7 @@
       "revision": "r1",
       "series": "RM",
       "source": {
-        "commit": "7125b97a2db4d6db5d2a001f40460a405faa4997",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-24",
         "drawing_date": "2024-10-15"
       },
@@ -1038,7 +1230,7 @@
         },
         "D": {
           "mm": 36.8,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 25.2,
@@ -1133,7 +1325,7 @@
       "revision": "r1",
       "series": "RM",
       "source": {
-        "commit": "e6003aba0acf8e199927b4262763f28bc8c73533-dirty",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-24",
         "drawing_date": "2025-10-21"
       },
@@ -1144,7 +1336,7 @@
         },
         "D": {
           "mm": 45.0,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 32.3,
@@ -1239,7 +1431,7 @@
       "revision": "r1",
       "series": "RM",
       "source": {
-        "commit": "f22f29a3ac70e0ea173df387a8c8785c38cd3747",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-24",
         "drawing_date": "2024-10-15"
       },
@@ -1250,7 +1442,7 @@
         },
         "D": {
           "mm": 56.3,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 40.3,
@@ -1345,7 +1537,7 @@
       "revision": "r1",
       "series": "RM",
       "source": {
-        "commit": "bb1eb7eb733e802050f34338285d65a9c8831c6e-dirty",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-25",
         "drawing_date": "2020-01-17"
       },
@@ -1356,7 +1548,7 @@
         },
         "D": {
           "mm": 67.4,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 50.4,
@@ -1451,7 +1643,7 @@
       "revision": "r1",
       "series": "RM",
       "source": {
-        "commit": "57686e01927b73b46ee0c462fcf62f925954a3b4-dirty",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-25",
         "drawing_date": "2020-01-17"
       },
@@ -1462,7 +1654,7 @@
         },
         "D": {
           "mm": 81.0,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 63.4,
@@ -1557,7 +1749,7 @@
       "revision": "r1",
       "series": "RM",
       "source": {
-        "commit": "26179214d8a8f355396728205e69ed5339334b13",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-24",
         "drawing_date": "2024-10-15"
       },
@@ -1568,7 +1760,7 @@
         },
         "D": {
           "mm": 14.3,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 8.2,
@@ -1663,7 +1855,7 @@
       "revision": "r1",
       "series": "RM",
       "source": {
-        "commit": "029a1fdd07914727132798b0907f00e6098c91c6-dirty",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-24",
         "drawing_date": "2024-10-15"
       },
@@ -1674,7 +1866,7 @@
         },
         "D": {
           "mm": 14.3,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 8.2,
@@ -1769,7 +1961,7 @@
       "revision": "r1",
       "series": "RM",
       "source": {
-        "commit": "cd5f561e5643dab4feeeb5864438fd9fa7c16840",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-25",
         "drawing_date": "2024-10-15"
       },
@@ -1780,7 +1972,7 @@
         },
         "D": {
           "mm": 13.6,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 8.0,
@@ -1866,7 +2058,7 @@
       "revision": "r1",
       "series": "RM",
       "source": {
-        "commit": "db0cac84907c2e27040d7b03755ad123d9b3fe81",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-25",
         "drawing_date": "2024-10-15"
       },
@@ -1877,7 +2069,7 @@
         },
         "D": {
           "mm": 13.6,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 8.0,
@@ -1963,7 +2155,7 @@
       "revision": "r1",
       "series": "RMW",
       "source": {
-        "commit": "c295df6e43d6bdd270633a460382c1716e9a6267",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-25",
         "drawing_date": "2025-07-30"
       },
@@ -1974,7 +2166,7 @@
         },
         "D": {
           "mm": 16.8,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 10.2,
@@ -2069,7 +2261,7 @@
       "revision": "r1",
       "series": "RMW",
       "source": {
-        "commit": "a49a839080f9f6985031fcc86307a13c3e2e394c",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-25",
         "drawing_date": "2025-07-30"
       },
@@ -2080,7 +2272,7 @@
         },
         "D": {
           "mm": 14.6,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 10.0,
@@ -2166,7 +2358,7 @@
       "revision": "r1",
       "series": "RMW",
       "source": {
-        "commit": "1f35ce62690a6817db81b100af70a10f4f1ac643",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-25",
         "drawing_date": "2023-08-04"
       },
@@ -2177,7 +2369,7 @@
         },
         "D": {
           "mm": 19.0,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 12.2,
@@ -2272,7 +2464,7 @@
       "revision": "r1",
       "series": "RMW",
       "source": {
-        "commit": "38e2a7c09b01c1295a1ad30aed278277c22210e8",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-25",
         "drawing_date": "2023-08-04"
       },
@@ -2283,7 +2475,7 @@
         },
         "D": {
           "mm": 19.0,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 12.2,
@@ -2378,7 +2570,7 @@
       "revision": "r1",
       "series": "RMW",
       "source": {
-        "commit": "56cca7cfddbb244478a5769120f06a03a3d1ba95",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-25",
         "drawing_date": "2025-07-30"
       },
@@ -2389,7 +2581,7 @@
         },
         "D": {
           "mm": 24.0,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 16.2,
@@ -2484,7 +2676,7 @@
       "revision": "r1",
       "series": "RMW",
       "source": {
-        "commit": "f4ee55ca9ab851b2b14bef2605a6bad2bb66d3f7-dirty",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-25",
         "drawing_date": "2025-10-01"
       },
@@ -2495,7 +2687,7 @@
         },
         "D": {
           "mm": 24.0,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 16.2,
@@ -2590,7 +2782,7 @@
       "revision": "r1",
       "series": "RMW",
       "source": {
-        "commit": "56cca7cfddbb244478a5769120f06a03a3d1ba95",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-25",
         "drawing_date": "2025-07-31"
       },
@@ -2601,7 +2793,7 @@
         },
         "D": {
           "mm": 29.0,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 20.2,
@@ -2696,7 +2888,7 @@
       "revision": "r1",
       "series": "RMW",
       "source": {
-        "commit": "56cca7cfddbb244478a5769120f06a03a3d1ba95",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-25",
         "drawing_date": "2025-07-31"
       },
@@ -2707,7 +2899,7 @@
         },
         "D": {
           "mm": 29.0,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 20.2,
@@ -2802,7 +2994,7 @@
       "revision": "r1",
       "series": "RMW",
       "source": {
-        "commit": "f4ee55ca9ab851b2b14bef2605a6bad2bb66d3f7-dirty",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-25",
         "drawing_date": "2025-07-31"
       },
@@ -2813,7 +3005,7 @@
         },
         "D": {
           "mm": 36.8,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 25.2,
@@ -2908,7 +3100,7 @@
       "revision": "r1",
       "series": "RMW",
       "source": {
-        "commit": "17cf1de34dd6d7dbdb1b9ac67801a6d55b1e331d",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-25",
         "drawing_date": "2025-10-21"
       },
@@ -2919,7 +3111,7 @@
         },
         "D": {
           "mm": 45.0,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 32.3,
@@ -3014,7 +3206,7 @@
       "revision": "r1",
       "series": "RMW",
       "source": {
-        "commit": "f4ee55ca9ab851b2b14bef2605a6bad2bb66d3f7-dirty",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-25",
         "drawing_date": "2025-07-30"
       },
@@ -3025,7 +3217,7 @@
         },
         "D": {
           "mm": 56.3,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 40.3,
@@ -3120,7 +3312,7 @@
       "revision": "r1",
       "series": "RMW",
       "source": {
-        "commit": "63cbce8918a7f5a666a57251adc4f34b4876631c-dirty",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-25",
         "drawing_date": "2020-01-30"
       },
@@ -3131,7 +3323,7 @@
         },
         "D": {
           "mm": 67.4,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 50.4,
@@ -3226,7 +3418,7 @@
       "revision": "r1",
       "series": "RMW",
       "source": {
-        "commit": "c295df6e43d6bdd270633a460382c1716e9a6267",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-25",
         "drawing_date": "2025-07-30"
       },
@@ -3237,7 +3429,7 @@
         },
         "D": {
           "mm": 14.3,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 8.2,
@@ -3332,7 +3524,7 @@
       "revision": "r1",
       "series": "RMW",
       "source": {
-        "commit": "c295df6e43d6bdd270633a460382c1716e9a6267",
+        "commit": "246c6e8e878c9351a9b454849ae84cf235521b95-dirty",
         "verified": "2026-11-25",
         "drawing_date": "2025-07-30"
       },
@@ -3343,7 +3535,7 @@
         },
         "D": {
           "mm": 14.3,
-          "axis": "X"
+          "axis": "Y"
         }
       },
       "mount_hole_mm": 8.2,

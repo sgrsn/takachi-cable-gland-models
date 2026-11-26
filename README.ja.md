@@ -24,6 +24,8 @@
 | 型番 | L × D (mm) | 取付穴径 (mm) | 色 | STEP |
 |---|---|---|---|---|
 | [AG12-8](models/AG/AG12-8/) | 35 × 18.8 | 12.2 | ライトグレー<br>ブラック | [AG12-8S](models/AG/AG12-8/AG12-8S.step)<br>[AG12-8B](models/AG/AG12-8/AG12-8B.step) |
+| [AG25-16](models/AG/AG25-16/) | 47 × 37.4 | 25.2 | ブラック<br>ライトグレー | [AG25-16B](models/AG/AG25-16/AG25-16B.step)<br>[AG25-16S](models/AG/AG25-16/AG25-16S.step) |
+| [AG25-20](models/AG/AG25-20/) | 47 × 37.4 | 25.2 | ブラック<br>ライトグレー | [AG25-20B](models/AG/AG25-20/AG25-20B.step)<br>[AG25-20S](models/AG/AG25-20/AG25-20S.step) |
 | [AG8-3.5](models/AG/AG8-3.5/) | 27 × 13.2 | M8×1.0 | ブラック<br>ライトグレー | [AG8-3.5B](models/AG/AG8-3.5/AG8-3.5B.step)<br>[AG8-3.5S](models/AG/AG8-3.5/AG8-3.5S.step) |
 | [RM10L-6](models/RM/RM10L-6/) | 33.5 × 16.8 | 10.2 | ブラック<br>ライトグレー | [RM10L-6B](models/RM/RM10L-6/RM10L-6B.step)<br>[RM10L-6S](models/RM/RM10L-6/RM10L-6S.step) |
 | [RM10S-6](models/RM/RM10S-6/) | 28.5 × 14.6 | M10×1.5 | ブラック<br>ライトグレー | [RM10S-6B](models/RM/RM10S-6/RM10S-6B.step)<br>[RM10S-6S](models/RM/RM10S-6/RM10S-6S.step) |

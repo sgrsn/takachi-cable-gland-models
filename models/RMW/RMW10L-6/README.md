@@ -15,10 +15,10 @@
 
 ## Dimensions
 
-| mm | L (Z) | D (X) |
+| mm | L (Z) | D (Y) |
 |---|---|---|
 | Drawing | 33.5 | 16.8 |
-| Overall (all parts) | 33.5 | 14.8 |
+| Overall (all parts) | 33.5 | 16.8 |
 
 Mounting hole: ⌀10.2 mm
 

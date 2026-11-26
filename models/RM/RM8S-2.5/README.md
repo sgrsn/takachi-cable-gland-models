@@ -15,10 +15,10 @@
 
 ## Dimensions
 
-| mm | L (Z) | D (X) |
+| mm | L (Z) | D (Y) |
 |---|---|---|
 | Drawing | 27 | 13.6 |
-| Overall (all parts) | 27 | 12 |
+| Overall (all parts) | 27 | 13.6 |
 
 Mounting hole: M8×1.25 tapped
 
