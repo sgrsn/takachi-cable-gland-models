@@ -1,0 +1,25 @@
+## RMH25-2B
+
+![RMH25-2B (Black (approx. RAL 9005))](preview_RMH25-2B.png)
+
+## RMH25-2S
+
+![RMH25-2S (Light gray (approx. RAL 7035))](preview_RMH25-2S.png)
+
+## STEP files
+
+| Model | Color | File |
+|---|---|---|
+| RMH25-2B | Black (approx. RAL 9005) | [RMH25-2B.step](RMH25-2B.step) |
+| RMH25-2S | Light gray (approx. RAL 7035) | [RMH25-2S.step](RMH25-2S.step) |
+
+## Dimensions
+
+| mm | L (Z) | D (Y) |
+|---|---|---|
+| Drawing | 52.5 | 37 |
+| Overall (all parts) | 52.5 | 37 |
+
+Mounting hole: ⌀25.2 mm
+
+Notice: [NOTICE.md](../../../NOTICE.md) · License: [CC BY 4.0](../../../LICENSE)
