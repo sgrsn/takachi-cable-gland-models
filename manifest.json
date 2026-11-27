@@ -5845,6 +5845,112 @@
         }
       ]
     },
+    "RMH25-3": {
+      "revision": "r1",
+      "series": "RMH",
+      "source": {
+        "commit": "d1045ca24320e064fb3d2ade1e0d05f416819a53-dirty",
+        "verified": "2026-11-27",
+        "drawing_date": "2023-09-04"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 52.5,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 37.0,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 25.2,
+      "overall_bbox": {
+        "min": [
+          -18.5,
+          -18.5,
+          -13.0
+        ],
+        "max": [
+          18.5,
+          18.5,
+          39.5
+        ]
+      },
+      "variants": [
+        {
+          "model": "RMH25-3B",
+          "color": {
+            "en": "Black (approx. RAL 9005)",
+            "ja": "ブラック（近似色 RAL 9005）"
+          },
+          "parts": [
+            {
+              "name": "RMH25-3B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-3B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-3B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-3B_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-3B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMH/RMH25-3/RMH25-3B.step",
+          "sha256": "407cb594d8873df5bf98e87a339e70159b16b9a076a10fe6f6569ffb1bbf8aa6"
+        },
+        {
+          "model": "RMH25-3S",
+          "color": {
+            "en": "Light gray (approx. RAL 7035)",
+            "ja": "ライトグレー（近似色 RAL 7035）"
+          },
+          "parts": [
+            {
+              "name": "RMH25-3S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-3S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-3S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-3S_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-3S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMH/RMH25-3/RMH25-3S.step",
+          "sha256": "3ca780573b91228c2696f03c87b9d0a505f06efa6f2ac72aa33ce7c99654d2ba"
+        }
+      ]
+    },
     "RMW10L-6": {
       "revision": "r1",
       "series": "RMW",
