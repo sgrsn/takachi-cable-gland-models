@@ -7849,6 +7849,148 @@
           "sha256": "4a3ffb355e454895d5067c067d30502b1263ff6e1d9c03d7f6ebff2d6910fd54"
         }
       ]
+    },
+    "THA451-20": {
+      "revision": "r1",
+      "series": "THA",
+      "source": {
+        "commit": "accad234003b3c4bb38492787b3b8b68ab4c0bb5",
+        "verified": "2026-11-27",
+        "drawing_date": "2020-01-29"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 39.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 27.713,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 20.2,
+      "overall_bbox": {
+        "min": [
+          -13.25,
+          -13.856,
+          -8.0
+        ],
+        "max": [
+          13.25,
+          13.856,
+          31.0
+        ]
+      },
+      "variants": [
+        {
+          "model": "THA451-20L",
+          "color": {
+            "en": "Light gray / Gray",
+            "ja": "ライトグレー / グレー"
+          },
+          "parts": [
+            {
+              "name": "THA451-20L_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "THA451-20L_SealingInsert",
+              "color": "#8C8C8C",
+              "alpha": 1.0
+            },
+            {
+              "name": "THA451-20L_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "THA451-20L_ConnectorSeal",
+              "color": "#8C8C8C",
+              "alpha": 1.0
+            },
+            {
+              "name": "THA451-20L_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/THA/THA451-20/THA451-20L.step",
+          "sha256": "fc06fb714d3c358365c0741aef347b5a6b575853751acd65d0c8526064be9aac"
+        },
+        {
+          "model": "THA451-20B",
+          "color": {
+            "en": "Black / Gray",
+            "ja": "ブラック / グレー"
+          },
+          "parts": [
+            {
+              "name": "THA451-20B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "THA451-20B_SealingInsert",
+              "color": "#8C8C8C",
+              "alpha": 1.0
+            },
+            {
+              "name": "THA451-20B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "THA451-20B_ConnectorSeal",
+              "color": "#8C8C8C",
+              "alpha": 1.0
+            },
+            {
+              "name": "THA451-20B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/THA/THA451-20/THA451-20B.step",
+          "sha256": "e8c98d75d0d8821d059ea34b7013c230d3f00e2418b131d7b99c576fe6111a56"
+        },
+        {
+          "model": "THA451-20G",
+          "color": {
+            "en": "Black / Green",
+            "ja": "ブラック / グリーン"
+          },
+          "parts": [
+            {
+              "name": "THA451-20G_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "THA451-20G_SealingInsert",
+              "color": "#2E7D32",
+              "alpha": 1.0
+            },
+            {
+              "name": "THA451-20G_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "THA451-20G_ConnectorSeal",
+              "color": "#2E7D32",
+              "alpha": 1.0
+            },
+            {
+              "name": "THA451-20G_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/THA/THA451-20/THA451-20G.step",
+          "sha256": "782637cdede4e52199933e93e0add17985449cbed7fa55a17db211c6b3e45e89"
+        }
+      ]
     }
   }
 }
