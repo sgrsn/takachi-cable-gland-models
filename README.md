@@ -112,6 +112,7 @@ Revisions are in [manifest.json](manifest.json); changes are in [CHANGELOG.md](C
 | [RMW8L-2.5](models/RMW/RMW8L-2.5/) | 32.5 × 14.3 | 8.2 | Black<br>Light gray | [RMW8L-2.5B](models/RMW/RMW8L-2.5/RMW8L-2.5B.step)<br>[RMW8L-2.5S](models/RMW/RMW8L-2.5/RMW8L-2.5S.step) |
 | [RMW8L-4](models/RMW/RMW8L-4/) | 32.5 × 14.3 | 8.2 | Black<br>Light gray | [RMW8L-4B](models/RMW/RMW8L-4/RMW8L-4B.step)<br>[RMW8L-4S](models/RMW/RMW8L-4/RMW8L-4S.step) |
 | [RPG13.5-11](models/RPG/RPG13.5-11/) | 39 × 29.4 | 20.6 | Black (approx. RAL 9005)<br>Gray (approx. RAL 7001) | [RPG13.5-11B](models/RPG/RPG13.5-11/RPG13.5-11B.step)<br>[RPG13.5-11G](models/RPG/RPG13.5-11/RPG13.5-11G.step) |
+| [RPG21-18](models/RPG/RPG21-18/) | 47 × 39 | 28.5 | Black (approx. RAL 9005)<br>Gray (approx. RAL 7001) | [RPG21-18B](models/RPG/RPG21-18/RPG21-18B.step)<br>[RPG21-18G](models/RPG/RPG21-18/RPG21-18G.step) |
 | [THA451-20](models/THA/THA451-20/) | 39 × 27.713 | 20.2 | Light gray / Gray<br>Black / Gray<br>Black / Green | [THA451-20L](models/THA/THA451-20/THA451-20L.step)<br>[THA451-20B](models/THA/THA451-20/THA451-20B.step)<br>[THA451-20G](models/THA/THA451-20/THA451-20G.step) |
 <!-- models:end -->
 

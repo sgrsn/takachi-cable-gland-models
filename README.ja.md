@@ -112,6 +112,7 @@
 | [RMW8L-2.5](models/RMW/RMW8L-2.5/) | 32.5 × 14.3 | 8.2 | ブラック<br>ライトグレー | [RMW8L-2.5B](models/RMW/RMW8L-2.5/RMW8L-2.5B.step)<br>[RMW8L-2.5S](models/RMW/RMW8L-2.5/RMW8L-2.5S.step) |
 | [RMW8L-4](models/RMW/RMW8L-4/) | 32.5 × 14.3 | 8.2 | ブラック<br>ライトグレー | [RMW8L-4B](models/RMW/RMW8L-4/RMW8L-4B.step)<br>[RMW8L-4S](models/RMW/RMW8L-4/RMW8L-4S.step) |
 | [RPG13.5-11](models/RPG/RPG13.5-11/) | 39 × 29.4 | 20.6 | ブラック（近似色 RAL 9005）<br>グレー（近似色 RAL 7001） | [RPG13.5-11B](models/RPG/RPG13.5-11/RPG13.5-11B.step)<br>[RPG13.5-11G](models/RPG/RPG13.5-11/RPG13.5-11G.step) |
+| [RPG21-18](models/RPG/RPG21-18/) | 47 × 39 | 28.5 | ブラック（近似色 RAL 9005）<br>グレー（近似色 RAL 7001） | [RPG21-18B](models/RPG/RPG21-18/RPG21-18B.step)<br>[RPG21-18G](models/RPG/RPG21-18/RPG21-18G.step) |
 | [THA451-20](models/THA/THA451-20/) | 39 × 27.713 | 20.2 | ライトグレー / グレー<br>ブラック / グレー<br>ブラック / グリーン | [THA451-20L](models/THA/THA451-20/THA451-20L.step)<br>[THA451-20B](models/THA/THA451-20/THA451-20B.step)<br>[THA451-20G](models/THA/THA451-20/THA451-20G.step) |
 <!-- models:end -->
 

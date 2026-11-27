@@ -7956,6 +7956,112 @@
         }
       ]
     },
+    "RPG21-18": {
+      "revision": "r1",
+      "series": "RPG",
+      "source": {
+        "commit": "11ed4813984735f4166548af34ae9d5584e0f8f9-dirty",
+        "verified": "2026-11-27",
+        "drawing_date": "2013-10-09"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 47.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 39.0,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 28.5,
+      "overall_bbox": {
+        "min": [
+          -19.5,
+          -19.5,
+          -9.462
+        ],
+        "max": [
+          19.5,
+          19.5,
+          37.538
+        ]
+      },
+      "variants": [
+        {
+          "model": "RPG21-18B",
+          "color": {
+            "en": "Black (approx. RAL 9005)",
+            "ja": "ブラック（近似色 RAL 9005）"
+          },
+          "parts": [
+            {
+              "name": "RPG21-18B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RPG21-18B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RPG21-18B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RPG21-18B_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RPG21-18B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RPG/RPG21-18/RPG21-18B.step",
+          "sha256": "9a17398a7b973f888a09361a196b4caf6fcb5631b1df669ef21edb0aa6753df2"
+        },
+        {
+          "model": "RPG21-18G",
+          "color": {
+            "en": "Gray (approx. RAL 7001)",
+            "ja": "グレー（近似色 RAL 7001）"
+          },
+          "parts": [
+            {
+              "name": "RPG21-18G_Cap",
+              "color": "#8A9597",
+              "alpha": 1.0
+            },
+            {
+              "name": "RPG21-18G_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RPG21-18G_Connector",
+              "color": "#8A9597",
+              "alpha": 1.0
+            },
+            {
+              "name": "RPG21-18G_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RPG21-18G_LockNut",
+              "color": "#8A9597",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RPG/RPG21-18/RPG21-18G.step",
+          "sha256": "4912d37a6529526e6199801fe47d674815d61c6f2f99ad72380c93d8edc6ce23"
+        }
+      ]
+    },
     "THA451-20": {
       "revision": "r1",
       "series": "THA",
