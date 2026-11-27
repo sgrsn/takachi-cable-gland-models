@@ -106,6 +106,7 @@
 | [RMW50L-38](models/RMW/RMW50L-38/) | 70.5 × 67.4 | 50.4 | ブラック<br>ライトグレー | [RMW50L-38B](models/RMW/RMW50L-38/RMW50L-38B.step)<br>[RMW50L-38S](models/RMW/RMW50L-38/RMW50L-38S.step) |
 | [RMW8L-2.5](models/RMW/RMW8L-2.5/) | 32.5 × 14.3 | 8.2 | ブラック<br>ライトグレー | [RMW8L-2.5B](models/RMW/RMW8L-2.5/RMW8L-2.5B.step)<br>[RMW8L-2.5S](models/RMW/RMW8L-2.5/RMW8L-2.5S.step) |
 | [RMW8L-4](models/RMW/RMW8L-4/) | 32.5 × 14.3 | 8.2 | ブラック<br>ライトグレー | [RMW8L-4B](models/RMW/RMW8L-4/RMW8L-4B.step)<br>[RMW8L-4S](models/RMW/RMW8L-4/RMW8L-4S.step) |
+| [RPG13.5-11](models/RPG/RPG13.5-11/) | 39 × 29.4 | 20.6 | ブラック（近似色 RAL 9005）<br>グレー（近似色 RAL 7001） | [RPG13.5-11B](models/RPG/RPG13.5-11/RPG13.5-11B.step)<br>[RPG13.5-11G](models/RPG/RPG13.5-11/RPG13.5-11G.step) |
 <!-- models:end -->
 
 ## ご意見

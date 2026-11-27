@@ -7319,6 +7319,112 @@
           "sha256": "360fa08a6495d59b17065ac58ef9de2e9878927311bfe46c21b0bbbe8e011656"
         }
       ]
+    },
+    "RPG13.5-11": {
+      "revision": "r1",
+      "series": "RPG",
+      "source": {
+        "commit": "4d7dec78ae5bce5be654491ad93d885ee24eeb3f-dirty",
+        "verified": "2026-11-27",
+        "drawing_date": "2013-10-09"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 39.0,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 29.4,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 20.6,
+      "overall_bbox": {
+        "min": [
+          -14.7,
+          -14.7,
+          -7.825
+        ],
+        "max": [
+          14.7,
+          14.7,
+          31.175
+        ]
+      },
+      "variants": [
+        {
+          "model": "RPG13.5-11B",
+          "color": {
+            "en": "Black (approx. RAL 9005)",
+            "ja": "ブラック（近似色 RAL 9005）"
+          },
+          "parts": [
+            {
+              "name": "RPG13.5-11B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RPG13.5-11B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RPG13.5-11B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RPG13.5-11B_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RPG13.5-11B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RPG/RPG13.5-11/RPG13.5-11B.step",
+          "sha256": "4f9e303532f327a02502bb6c67de43f33d535052e33b2439c476003ddb0feff8"
+        },
+        {
+          "model": "RPG13.5-11G",
+          "color": {
+            "en": "Gray (approx. RAL 7001)",
+            "ja": "グレー（近似色 RAL 7001）"
+          },
+          "parts": [
+            {
+              "name": "RPG13.5-11G_Cap",
+              "color": "#8A9597",
+              "alpha": 1.0
+            },
+            {
+              "name": "RPG13.5-11G_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RPG13.5-11G_Connector",
+              "color": "#8A9597",
+              "alpha": 1.0
+            },
+            {
+              "name": "RPG13.5-11G_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RPG13.5-11G_LockNut",
+              "color": "#8A9597",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RPG/RPG13.5-11/RPG13.5-11G.step",
+          "sha256": "4a3ffb355e454895d5067c067d30502b1263ff6e1d9c03d7f6ebff2d6910fd54"
+        }
+      ]
     }
   }
 }
