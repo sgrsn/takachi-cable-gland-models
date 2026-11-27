@@ -5951,6 +5951,324 @@
         }
       ]
     },
+    "RMH25-4": {
+      "revision": "r1",
+      "series": "RMH",
+      "source": {
+        "commit": "a83fdba722413ca6111d4aa646e2949c66e12d4c",
+        "verified": "2026-11-27",
+        "drawing_date": "2026-06-19"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 52.5,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 37.0,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 25.2,
+      "overall_bbox": {
+        "min": [
+          -18.5,
+          -18.5,
+          -13.0
+        ],
+        "max": [
+          18.5,
+          18.5,
+          39.5
+        ]
+      },
+      "variants": [
+        {
+          "model": "RMH25-4B",
+          "color": {
+            "en": "Black (approx. RAL 9005)",
+            "ja": "ブラック（近似色 RAL 9005）"
+          },
+          "parts": [
+            {
+              "name": "RMH25-4B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-4B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-4B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-4B_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-4B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMH/RMH25-4/RMH25-4B.step",
+          "sha256": "8aeca9231121d663390dcc287630d0bf416ae94fa6e589611e4fd7cabc56ecae"
+        },
+        {
+          "model": "RMH25-4S",
+          "color": {
+            "en": "Light gray (approx. RAL 7035)",
+            "ja": "ライトグレー（近似色 RAL 7035）"
+          },
+          "parts": [
+            {
+              "name": "RMH25-4S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-4S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-4S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-4S_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-4S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMH/RMH25-4/RMH25-4S.step",
+          "sha256": "42c405f1812d0ed2abd02efd97de80763b5b79b3df1134d7c328125cd972f513"
+        }
+      ]
+    },
+    "RMH25-5": {
+      "revision": "r1",
+      "series": "RMH",
+      "source": {
+        "commit": "a83fdba722413ca6111d4aa646e2949c66e12d4c",
+        "verified": "2026-11-27",
+        "drawing_date": "2023-09-04"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 52.5,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 37.0,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 25.2,
+      "overall_bbox": {
+        "min": [
+          -18.5,
+          -18.5,
+          -13.0
+        ],
+        "max": [
+          18.5,
+          18.5,
+          39.5
+        ]
+      },
+      "variants": [
+        {
+          "model": "RMH25-5B",
+          "color": {
+            "en": "Black (approx. RAL 9005)",
+            "ja": "ブラック（近似色 RAL 9005）"
+          },
+          "parts": [
+            {
+              "name": "RMH25-5B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-5B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-5B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-5B_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-5B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMH/RMH25-5/RMH25-5B.step",
+          "sha256": "ed75e52e40b9a70d3e81c50be653b03e5b345e9cbb83aaa49731ea3f58a6a156"
+        },
+        {
+          "model": "RMH25-5S",
+          "color": {
+            "en": "Light gray (approx. RAL 7035)",
+            "ja": "ライトグレー（近似色 RAL 7035）"
+          },
+          "parts": [
+            {
+              "name": "RMH25-5S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-5S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-5S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-5S_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-5S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMH/RMH25-5/RMH25-5S.step",
+          "sha256": "2e729c89eb643f296b0a8f8d1f88703cfdfeced1262a41cfdb80c21c3dde0052"
+        }
+      ]
+    },
+    "RMH25-6": {
+      "revision": "r1",
+      "series": "RMH",
+      "source": {
+        "commit": "a83fdba722413ca6111d4aa646e2949c66e12d4c",
+        "verified": "2026-11-27",
+        "drawing_date": "2023-09-04"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 52.5,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 37.0,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 25.2,
+      "overall_bbox": {
+        "min": [
+          -18.5,
+          -18.5,
+          -13.0
+        ],
+        "max": [
+          18.5,
+          18.5,
+          39.5
+        ]
+      },
+      "variants": [
+        {
+          "model": "RMH25-6B",
+          "color": {
+            "en": "Black (approx. RAL 9005)",
+            "ja": "ブラック（近似色 RAL 9005）"
+          },
+          "parts": [
+            {
+              "name": "RMH25-6B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-6B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-6B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-6B_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-6B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMH/RMH25-6/RMH25-6B.step",
+          "sha256": "2c7e2711998d0b00ad91169b6bd2db8da7140a3a473d65e792a5cb9ac8881d1a"
+        },
+        {
+          "model": "RMH25-6S",
+          "color": {
+            "en": "Light gray (approx. RAL 7035)",
+            "ja": "ライトグレー（近似色 RAL 7035）"
+          },
+          "parts": [
+            {
+              "name": "RMH25-6S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-6S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-6S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-6S_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH25-6S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMH/RMH25-6/RMH25-6S.step",
+          "sha256": "beaac9e7ab5ed83fec359be99b727db1c76491d95d6d1301972dd8d9dd329d2c"
+        }
+      ]
+    },
     "RMW10L-6": {
       "revision": "r1",
       "series": "RMW",

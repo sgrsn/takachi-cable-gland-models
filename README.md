@@ -93,6 +93,9 @@ Revisions are in [manifest.json](manifest.json); changes are in [CHANGELOG.md](C
 | [RMC32-25.5](models/RMC/RMC32-25.5/) | 43.5 × 39.6 | 32.3 | Nickel plated | [RMC32-25.5](models/RMC/RMC32-25.5/RMC32-25.5.step) |
 | [RMH25-2](models/RMH/RMH25-2/) | 52.5 × 37 | 25.2 | Black (approx. RAL 9005)<br>Light gray (approx. RAL 7035) | [RMH25-2B](models/RMH/RMH25-2/RMH25-2B.step)<br>[RMH25-2S](models/RMH/RMH25-2/RMH25-2S.step) |
 | [RMH25-3](models/RMH/RMH25-3/) | 52.5 × 37 | 25.2 | Black (approx. RAL 9005)<br>Light gray (approx. RAL 7035) | [RMH25-3B](models/RMH/RMH25-3/RMH25-3B.step)<br>[RMH25-3S](models/RMH/RMH25-3/RMH25-3S.step) |
+| [RMH25-4](models/RMH/RMH25-4/) | 52.5 × 37 | 25.2 | Black (approx. RAL 9005)<br>Light gray (approx. RAL 7035) | [RMH25-4B](models/RMH/RMH25-4/RMH25-4B.step)<br>[RMH25-4S](models/RMH/RMH25-4/RMH25-4S.step) |
+| [RMH25-5](models/RMH/RMH25-5/) | 52.5 × 37 | 25.2 | Black (approx. RAL 9005)<br>Light gray (approx. RAL 7035) | [RMH25-5B](models/RMH/RMH25-5/RMH25-5B.step)<br>[RMH25-5S](models/RMH/RMH25-5/RMH25-5S.step) |
+| [RMH25-6](models/RMH/RMH25-6/) | 52.5 × 37 | 25.2 | Black (approx. RAL 9005)<br>Light gray (approx. RAL 7035) | [RMH25-6B](models/RMH/RMH25-6/RMH25-6B.step)<br>[RMH25-6S](models/RMH/RMH25-6/RMH25-6S.step) |
 | [RMW10L-6](models/RMW/RMW10L-6/) | 33.5 × 16.8 | 10.2 | Black<br>Light gray | [RMW10L-6B](models/RMW/RMW10L-6/RMW10L-6B.step)<br>[RMW10L-6S](models/RMW/RMW10L-6/RMW10L-6S.step) |
 | [RMW10S-6](models/RMW/RMW10S-6/) | 28.5 × 14.6 | M10×1.5 | Black<br>Light gray | [RMW10S-6B](models/RMW/RMW10S-6/RMW10S-6B.step)<br>[RMW10S-6S](models/RMW/RMW10S-6/RMW10S-6S.step) |
 | [RMW12L-7](models/RMW/RMW12L-7/) | 35 × 19 | 12.2 | Black<br>Light gray | [RMW12L-7B](models/RMW/RMW12L-7/RMW12L-7B.step)<br>[RMW12L-7S](models/RMW/RMW12L-7/RMW12L-7S.step) |
