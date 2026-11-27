@@ -5739,6 +5739,112 @@
         }
       ]
     },
+    "RMH20-2": {
+      "revision": "r1",
+      "series": "RMH",
+      "source": {
+        "commit": "3f0bf96531927416d1330642ce91a310fa5eb973",
+        "verified": "2026-11-27",
+        "drawing_date": "2023-09-04"
+      },
+      "catalog_dimensions": {
+        "L": {
+          "mm": 49.5,
+          "axis": "Z"
+        },
+        "D": {
+          "mm": 30.4,
+          "axis": "Y"
+        }
+      },
+      "mount_hole_mm": 20.2,
+      "overall_bbox": {
+        "min": [
+          -15.15,
+          -15.2,
+          -13.1
+        ],
+        "max": [
+          15.15,
+          15.2,
+          36.4
+        ]
+      },
+      "variants": [
+        {
+          "model": "RMH20-2B",
+          "color": {
+            "en": "Black (approx. RAL 9005)",
+            "ja": "ブラック（近似色 RAL 9005）"
+          },
+          "parts": [
+            {
+              "name": "RMH20-2B_Cap",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH20-2B_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH20-2B_Connector",
+              "color": "#262626",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH20-2B_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH20-2B_LockNut",
+              "color": "#262626",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMH/RMH20-2/RMH20-2B.step",
+          "sha256": "f355419704e7850ede11ee1c4b0007afb5028b6472875ef6cc238b3461ac3bc8"
+        },
+        {
+          "model": "RMH20-2S",
+          "color": {
+            "en": "Light gray (approx. RAL 7035)",
+            "ja": "ライトグレー（近似色 RAL 7035）"
+          },
+          "parts": [
+            {
+              "name": "RMH20-2S_Cap",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH20-2S_SealingInsert",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH20-2S_Connector",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH20-2S_ORing",
+              "color": "#141414",
+              "alpha": 1.0
+            },
+            {
+              "name": "RMH20-2S_LockNut",
+              "color": "#C3C3BE",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/RMH/RMH20-2/RMH20-2S.step",
+          "sha256": "fbcdf1d23ec46c1db6dee0bd92cf800723c38d405da0c617c222268b475196f2"
+        }
+      ]
+    },
     "RMH25-2": {
       "revision": "r1",
       "series": "RMH",

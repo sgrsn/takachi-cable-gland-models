@@ -91,6 +91,7 @@
 | [RMC25-19](models/RMC/RMC25-19/) | 39.5 × 33 | 25.2 | ニッケルめっき | [RMC25-19](models/RMC/RMC25-19/RMC25-19.step) |
 | [RMC32-21](models/RMC/RMC32-21/) | 43.5 × 39.6 | 32.3 | ニッケルめっき | [RMC32-21](models/RMC/RMC32-21/RMC32-21.step) |
 | [RMC32-25.5](models/RMC/RMC32-25.5/) | 43.5 × 39.6 | 32.3 | ニッケルめっき | [RMC32-25.5](models/RMC/RMC32-25.5/RMC32-25.5.step) |
+| [RMH20-2](models/RMH/RMH20-2/) | 49.5 × 30.4 | 20.2 | ブラック（近似色 RAL 9005）<br>ライトグレー（近似色 RAL 7035） | [RMH20-2B](models/RMH/RMH20-2/RMH20-2B.step)<br>[RMH20-2S](models/RMH/RMH20-2/RMH20-2S.step) |
 | [RMH25-2](models/RMH/RMH25-2/) | 52.5 × 37 | 25.2 | ブラック（近似色 RAL 9005）<br>ライトグレー（近似色 RAL 7035） | [RMH25-2B](models/RMH/RMH25-2/RMH25-2B.step)<br>[RMH25-2S](models/RMH/RMH25-2/RMH25-2S.step) |
 | [RMH25-3](models/RMH/RMH25-3/) | 52.5 × 37 | 25.2 | ブラック（近似色 RAL 9005）<br>ライトグレー（近似色 RAL 7035） | [RMH25-3B](models/RMH/RMH25-3/RMH25-3B.step)<br>[RMH25-3S](models/RMH/RMH25-3/RMH25-3S.step) |
 | [RMH25-4](models/RMH/RMH25-4/) | 52.5 × 37 | 25.2 | ブラック（近似色 RAL 9005）<br>ライトグレー（近似色 RAL 7035） | [RMH25-4B](models/RMH/RMH25-4/RMH25-4B.step)<br>[RMH25-4S](models/RMH/RMH25-4/RMH25-4S.step) |

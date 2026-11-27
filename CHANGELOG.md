@@ -4,6 +4,7 @@ Each line is a model and its revision in manifest.json.
 
 ## 2026-11-27
 
+- RMH20-2 r1: added
 - RMH25-2 r1: added
 - RMH25-3 r1: added
 - RMH25-4 r1: added
